@@ -1,0 +1,1 @@
+{"missionId": "520", "missionName": "Aircraft Leaking Fuel", "requirements": [{"requirement": "firetrucks", "qty": "1"}, {"requirement": "arff", "qty": "1"}, {"requirement": "hazmat vehicles", "qty": "1"}, {"requirement": "battalion chief vehicles", "qty": "1"}], "credits": "2500"}

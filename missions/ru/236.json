@@ -1,0 +1,1 @@
+{"missionId": "236", "missionName": "Пожар в автобусе", "requirements": [{"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "12"}], "credits": "1500"}

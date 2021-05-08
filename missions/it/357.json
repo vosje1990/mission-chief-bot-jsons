@@ -1,0 +1,1 @@
+{"missionId": "357", "missionName": "Incendio Cabina Elettrica", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "1"}], "credits": "900"}

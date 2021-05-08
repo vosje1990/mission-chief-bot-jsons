@@ -1,0 +1,1 @@
+{"missionId": "100", "missionName": "Возгорание мусоровоза", "requirements": [{"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "2"}, {"requirement": "цистерны с водой", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}], "credits": "2000"}
