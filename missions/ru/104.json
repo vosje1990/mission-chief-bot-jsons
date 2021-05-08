@@ -1,0 +1,1 @@
+{"missionId": "104", "missionName": "Отравление газом", "requirements": [{"requirement": "пожарные машины", "qty": "2"}, {"requirement": "машины для спасательных работ в тяжёлых условиях", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}, {"requirement": "макс. пациенты", "qty": "10"}], "credits": "5"}

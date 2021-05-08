@@ -1,0 +1,1 @@
+{"missionId": "99", "missionName": "Возгорание большегрузного автомобиля", "requirements": [{"requirement": "пожарные машины", "qty": "3"}, {"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "цистерны с водой", "qty": "1"}, {"requirement": "полицейские автомобили", "qty": "1"}], "credits": "1400"}

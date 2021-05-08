@@ -1,0 +1,1 @@
+{"missionId": "20", "missionName": "Возгорание в подвале", "requirements": [{"requirement": "машины командира батальона", "qty": "1"}, {"requirement": "пожарные машины", "qty": "3"}, {"requirement": "макс. пациенты", "qty": "2"}], "credits": "2500"}
