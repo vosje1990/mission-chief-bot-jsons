@@ -1,1 +1,1 @@
-{"missionId": "428", "missionName": "We're sorry, but something went wrong.", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1500"}
+{"missionId": "428", "missionName": "Schneelast auf Dach", "requirements": [{"requirement": "l\u00f6schfahrzeuge", "qty": 5},{"requirement": "elw1", "qty": 1},{"requirement": "drehleitern (dlk 23)", "qty": 1},{"requirement": "gw-höhenrettung", "qty": 1},{"requirement": "maximale patientenanzahl", "qty": 2}], "credits": "1500"}
