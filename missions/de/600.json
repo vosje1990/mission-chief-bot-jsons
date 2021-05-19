@@ -1,1 +1,1 @@
-{"missionId": "600", "missionName": "We're sorry, but something went wrong.", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "None"}
+{"missionId": "600", "missionName": "Gebrochenes Herz", "requirements": [{"requirement": "rtw", "qty": 1}], "credits": "250"}
