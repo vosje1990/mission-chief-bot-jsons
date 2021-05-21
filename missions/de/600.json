@@ -1,1 +1,1 @@
-{"missionId": "600", "missionName": "Gebrochenes Herz", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "0"}
+{"missionId": "600", "missionName": "Gebrochenes Herz", "requirements": [{"requirement": "rtw", "qty": 1}], "credits": "250"}

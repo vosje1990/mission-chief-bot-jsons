@@ -1,1 +1,1 @@
-{"missionId": "603", "missionName": "Suche nach nicht vorhandenem Partner", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1100"}
+{"missionId": "603", "missionName": "Suche nach nicht vorhandenem Partner", "requirements": [{"requirement": "streifenwagen", "qty": 2}], "credits": "1100"}
