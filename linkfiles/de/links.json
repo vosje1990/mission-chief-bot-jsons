@@ -82,6 +82,7 @@
 "rüstwagen oder hlf" : [4, 30, 47, 90],
 "schlauchwagen" : [11, 13, 14, 15, 16, 62],
 "sek-fahrzeuge" : [79, 80],
+"sek-fahrzeug" : [79, 80],
 "sek-mtf" : [80],
 "sek-zf" : [79],
 "streifenwagen" : [32],
