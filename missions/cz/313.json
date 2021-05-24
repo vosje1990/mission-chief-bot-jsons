@@ -1,1 +1,1 @@
-{"missionId": "313", "missionName": "Vyvrknutí kotníku", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "None"}
+{"missionId": "313", "missionName": "Vyvrknutí kotníku", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "100"}

@@ -1,1 +1,1 @@
-{"missionId": "156", "missionName": "Požár v kuchyni", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "156", "missionName": "Požár v kuchyni", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}

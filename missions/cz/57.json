@@ -1,1 +1,1 @@
-{"missionId": "57", "missionName": "Nenahlášená demonstrace", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "10020"}
+{"missionId": "57", "missionName": "Nenahlášená demonstrace", "requirements": [{"requirement": "policejní automobily", "qty": "7"}], "credits": "10020"}

@@ -1,1 +1,1 @@
-{"missionId": "169", "missionName": "Dopravní nehoda bez zranění", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "169", "missionName": "Dopravní nehoda bez zranění", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}

@@ -1,1 +1,1 @@
-{"missionId": "66", "missionName": "Požár v pokoji", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1400"}
+{"missionId": "66", "missionName": "Požár v pokoji", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "1"}], "credits": "1400"}

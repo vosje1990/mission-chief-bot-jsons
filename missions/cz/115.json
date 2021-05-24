@@ -1,1 +1,1 @@
-{"missionId": "115", "missionName": "Malý násilný protest", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "6"}
+{"missionId": "115", "missionName": "Malý násilný protest", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}, {"requirement": "policejní automobily", "qty": "4"}], "credits": "2200"}

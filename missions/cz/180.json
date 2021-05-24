@@ -1,1 +1,1 @@
-{"missionId": "180", "missionName": "Nález munice", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2300"}
+{"missionId": "180", "missionName": "Nález munice", "requirements": [{"requirement": "policejní automobily", "qty": "3"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "2300"}

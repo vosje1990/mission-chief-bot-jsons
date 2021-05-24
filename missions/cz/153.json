@@ -1,1 +1,1 @@
-{"missionId": "153", "missionName": "Požár v rychlém občerstvení", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1850"}
+{"missionId": "153", "missionName": "Požár v rychlém občerstvení", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "5"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}], "credits": "1850"}

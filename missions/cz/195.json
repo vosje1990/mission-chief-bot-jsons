@@ -1,1 +1,1 @@
-{"missionId": "195", "missionName": "Požár skladu uhlí", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "4100"}
+{"missionId": "195", "missionName": "Požár skladu uhlí", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "10"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "4100"}

@@ -1,1 +1,1 @@
-{"missionId": "76", "missionName": "Dopravní nehoda s převrácením", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3000"}
+{"missionId": "76", "missionName": "Dopravní nehoda s převrácením", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "3"}, {"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}], "credits": "3000"}

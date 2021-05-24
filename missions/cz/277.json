@@ -1,1 +1,1 @@
-{"missionId": "277", "missionName": "Pohřešovaná osoba v blízkosti vody", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "Rybník"}
+{"missionId": "277", "missionName": "Pohřešovaná osoba v blízkosti vody", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "policejní automobily", "qty": "6"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "3000"}

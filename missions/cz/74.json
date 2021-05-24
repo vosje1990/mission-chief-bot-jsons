@@ -1,1 +1,1 @@
-{"missionId": "74", "missionName": "Velký oheň", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "10210"}
+{"missionId": "74", "missionName": "Velký oheň", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "10"}, {"requirement": "velitelské automobily", "qty": "3"}, {"requirement": "automobilové žebříky", "qty": "2"}, {"requirement": "kombinované hasící automobily", "qty": "2"}, {"requirement": "ta", "qty": "2"}], "credits": "10210"}
