@@ -1,1 +1,1 @@
-{"missionId": "305", "missionName": "Zátah na padělané zboží", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "305", "missionName": "Zátah na padělané zboží", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1200"}

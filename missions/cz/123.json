@@ -1,1 +1,1 @@
-{"missionId": "123", "missionName": "Loupež v muzeu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1000"}
+{"missionId": "123", "missionName": "Loupež v muzeu", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "262", "missionName": "Auto ve vodě", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2800"}
+{"missionId": "262", "missionName": "Auto ve vodě", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}, {"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "2800"}

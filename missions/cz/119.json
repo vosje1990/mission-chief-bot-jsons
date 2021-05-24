@@ -1,1 +1,1 @@
-{"missionId": "119", "missionName": "Střelba na policistu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "4100"}
+{"missionId": "119", "missionName": "Střelba na policistu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "policejní automobily", "qty": "8"}], "credits": "4100"}

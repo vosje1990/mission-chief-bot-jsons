@@ -1,1 +1,1 @@
-{"missionId": "129", "missionName": "Nehoda se zvířetem", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "129", "missionName": "Nehoda se zvířetem", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "3"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}

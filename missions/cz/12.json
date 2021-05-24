@@ -1,1 +1,1 @@
-{"missionId": "12", "missionName": "Strom přes cestu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "310"}
+{"missionId": "12", "missionName": "Strom přes cestu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "310"}

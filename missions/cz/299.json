@@ -1,1 +1,1 @@
-{"missionId": "299", "missionName": "Pád osoby z výšky", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "800"}
+{"missionId": "299", "missionName": "Pád osoby z výšky", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "800"}

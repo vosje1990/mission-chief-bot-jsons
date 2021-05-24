@@ -1,1 +1,1 @@
-{"missionId": "92", "missionName": "Požár stohu slámy", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1500"}
+{"missionId": "92", "missionName": "Požár stohu slámy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "5"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}], "credits": "1500"}

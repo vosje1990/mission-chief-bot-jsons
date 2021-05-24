@@ -1,1 +1,1 @@
-{"missionId": "58", "missionName": "Malý požár v kuchyni", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1000"}
+{"missionId": "58", "missionName": "Malý požár v kuchyni", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1000"}

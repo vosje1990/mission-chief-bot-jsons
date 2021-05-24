@@ -1,1 +1,1 @@
-{"missionId": "4", "missionName": "Požár trávy", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "200"}
+{"missionId": "4", "missionName": "Požár trávy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "200"}

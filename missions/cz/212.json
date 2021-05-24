@@ -1,1 +1,1 @@
-{"missionId": "212", "missionName": "Hlídka na trhu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1500"}
+{"missionId": "212", "missionName": "Hlídka na trhu", "requirements": [{"requirement": "policejní automobily", "qty": "1"}], "credits": "1500"}

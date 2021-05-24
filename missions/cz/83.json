@@ -1,1 +1,1 @@
-{"missionId": "83", "missionName": "Požár velké farmy", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "9000"}
+{"missionId": "83", "missionName": "Požár velké farmy", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "9"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "3"}, {"requirement": "kombinované hasící automobily", "qty": "3"}], "credits": "9000"}
