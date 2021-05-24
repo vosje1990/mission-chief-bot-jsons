@@ -1,1 +1,1 @@
-{"missionId": "297", "missionName": "Střep v ruce", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{"missionId": "297", "missionName": "Střep v ruce", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "100"}

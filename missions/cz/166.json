@@ -1,1 +1,1 @@
-{"missionId": "166", "missionName": "Neohlášené pálení", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1400"}
+{"missionId": "166", "missionName": "Neohlášené pálení", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1400"}

@@ -1,1 +1,1 @@
-{"missionId": "158", "missionName": "Požár elektromobilu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1400"}
+{"missionId": "158", "missionName": "Požár elektromobilu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "3"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1400"}

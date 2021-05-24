@@ -1,1 +1,1 @@
-{"missionId": "235", "missionName": "Poranění elektrickým proudem", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{"missionId": "235", "missionName": "Poranění elektrickým proudem", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "100"}

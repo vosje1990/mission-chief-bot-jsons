@@ -1,1 +1,1 @@
-{"missionId": "89", "missionName": "Napadení úředníka", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "0"}
+{"missionId": "89", "missionName": "Napadení úředníka", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "policejní automobily", "qty": "2"}], "credits": "750"}

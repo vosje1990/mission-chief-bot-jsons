@@ -1,1 +1,1 @@
-{"missionId": "160", "missionName": "Požár skládky", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "0"}
+{"missionId": "160", "missionName": "Požár skládky", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "2500"}

@@ -1,1 +1,1 @@
-{"missionId": "286", "missionName": "Požár motorestu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "5300"}
+{"missionId": "286", "missionName": "Požár motorestu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}, {"requirement": "cisternové automobilové stříkačky", "qty": "8"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "automobilové žebříky", "qty": "2"}, {"requirement": "protiplynové automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}], "credits": "5300"}

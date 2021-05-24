@@ -1,1 +1,1 @@
-{"missionId": "134", "missionName": "Únik kyseliny dusičné", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3400"}
+{"missionId": "134", "missionName": "Únik kyseliny dusičné", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "3400"}

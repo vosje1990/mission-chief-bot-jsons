@@ -1,1 +1,1 @@
-{"missionId": "311", "missionName": "Hypoglykémie", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "None"}
+{"missionId": "311", "missionName": "Hypoglykémie", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}], "credits": "100"}
