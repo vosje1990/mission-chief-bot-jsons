@@ -13,8 +13,8 @@
 "critical cares": [10, 19, 21],
 "dog support unit (dsu)": [12],
 "dog support units (dsus)": [12],
-"fire engine ": [0, 1, 16, 17],
-"fire engines ": [0, 1, 16, 17],
+"fire engine ": [0, 1, 16, 17, 26],
+"fire engines ": [0, 1, 16, 17, 26],
 "fire officer": [3, 15],
 "fire officers": [3, 15],
 "hazmat unit or cbrn vehicle": [7, 32],
@@ -46,8 +46,8 @@
 "secondary response vehicles": [28],
 "traffic car": [24, 25],
 "traffic cars": [24, 25],
-"water carrier": [6],
-"water carriers": [6],
+"water carrier": [6, 26],
+"water carriers": [6, 26],
 "welfare vehicle": [29],
 "welfare vehicles": [29]
 }
