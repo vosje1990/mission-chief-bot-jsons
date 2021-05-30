@@ -1,1 +1,1 @@
-{"missionId": "182", "missionName": "Útok aktivního střelce", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "9000"}
+{"missionId": "182", "missionName": "Útok aktivního střelce", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "3"}, {"requirement": "policejní automobily", "qty": "12"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}], "credits": "9000"}

@@ -1,1 +1,1 @@
-{"missionId": "172", "missionName": "Nahlášena výbušnina ve škole", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3700"}
+{"missionId": "172", "missionName": "Nahlášena výbušnina ve škole", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "3700"}

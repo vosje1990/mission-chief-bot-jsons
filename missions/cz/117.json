@@ -1,1 +1,1 @@
-{"missionId": "117", "missionName": "Obchod s drogami", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "6"}
+{"missionId": "117", "missionName": "Obchod s drogami", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1500"}

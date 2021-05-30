@@ -1,1 +1,1 @@
-{"missionId": "314", "missionName": "Požití chemikálií", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "None"}
+{"missionId": "314", "missionName": "Požití chemikálií", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}], "credits": "100"}

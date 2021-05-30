@@ -1,1 +1,1 @@
-{"missionId": "3", "missionName": "Hořící motocykl", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "340"}
+{"missionId": "3", "missionName": "Hořící motocykl", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "340"}

@@ -1,1 +1,1 @@
-{"missionId": "82", "missionName": "Amputace končetiny", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "4"}
+{"missionId": "82", "missionName": "Amputace končetiny", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "4"}], "credits": "100"}

@@ -1,1 +1,1 @@
-{"missionId": "34", "missionName": "Požár v nemocnici", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "6000"}
+{"missionId": "34", "missionName": "Požár v nemocnici", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "6"}, {"requirement": "cisternové automobilové stříkačky", "qty": "10"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "ta", "qty": "2"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "3"}], "credits": "6000"}

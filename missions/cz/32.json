@@ -1,1 +1,1 @@
-{"missionId": "32", "missionName": "Požár žacího stroje", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1200"}
+{"missionId": "32", "missionName": "Požár žacího stroje", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1200"}

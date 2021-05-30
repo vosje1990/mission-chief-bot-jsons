@@ -1,1 +1,1 @@
-{"missionId": "301", "missionName": "Panický záchvat", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{"missionId": "301", "missionName": "Panický záchvat", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "100"}
