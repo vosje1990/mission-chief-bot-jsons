@@ -11,6 +11,7 @@
 "breathing apparatus support units": [14],
 "critical care": [10, 19, 21],
 "critical cares": [10, 19, 21],
+"dog support unit": [12],
 "dog support unit (dsu)": [12],
 "dog support units (dsus)": [12],
 "fire engine": [0, 1, 16, 17, 26],
@@ -34,6 +35,8 @@
 "police cars": [8, 12, 13],
 "police helicopter": [11],
 "police helicopters": [11],
+"policehelicopter": [11],
+"policehelicopters": [11],
 "primary response vehicle": [27],
 "primary response vehicles": [27],
 "rapid response vehicle": [10],
@@ -49,5 +52,7 @@
 "water carrier": [6, 26],
 "water carriers": [6, 26],
 "welfare vehicle": [29],
+"Welfare Vehicle": [29],
+"Welfare Vehicles": [29],
 "welfare vehicles": [29]
 }
