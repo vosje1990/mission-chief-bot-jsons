@@ -40,6 +40,7 @@
 "gw-taucher" : [63],
 "gw-wasserrettung" : [64],
 "gw-werkfeuerwehr" : [83],
+"itw": [97],
 "kdow lna" : [55],
 "kdow orgl" : [56],
 "kdow-lna" : [55],
@@ -59,6 +60,7 @@
 "mannschaftstransport-wagen" : [36],
 "maximale patientenanzahl" : [28, 73],
 "mek-fahrzeuge" : [81, 82],
+"mek-fahrzeug" : [81, 82],
 "mek-mtf" : [82],
 "mek-zf" : [81],
 "mlw 5" : [45],
@@ -89,6 +91,7 @@
 "streifenwagen" : [32],
 "tauchkraftwagen" : [69],
 "teleskopmasten" : [85],
+"teleskopmast" : [85],
 "thw-einsatzleitung (mtw tz)" : [40],
 "thw-einsatzleitung" : [40],
 "thw-mehrzweckkraftwagen (mzkw)" : [41],
@@ -99,7 +102,8 @@
 "ulf mit l\u00f6scharm" : [84],
 "ulf mit löscharm" : [84],
 "wasserwerfer" : [72],
-"wlf" : [46]
+"wlf" : [46],
+"zivilstreifenwagen" :[98]
 }
 
 

@@ -1,1 +1,1 @@
-{"missionId": "155", "missionName": "Únik neznámé kapaliny", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "4300"}
+{"missionId": "155", "missionName": "Únik neznámé kapaliny", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "ta", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "2"}, {"requirement": "mobilní operační střediska", "qty": "1"}, {"requirement": "policejní automobily", "qty": "3"}], "credits": "4300"}

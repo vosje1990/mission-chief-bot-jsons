@@ -1,1 +1,1 @@
-{"missionId": "122", "missionName": "Pokus o vraždu", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1000"}
+{"missionId": "122", "missionName": "Pokus o vraždu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "policejní automobily", "qty": "6"}], "credits": "1000"}

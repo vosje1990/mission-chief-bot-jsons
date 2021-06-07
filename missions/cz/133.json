@@ -1,1 +1,1 @@
-{"missionId": "133", "missionName": "Nouzové přistání vrtulníku", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3700"}
+{"missionId": "133", "missionName": "Nouzové přistání vrtulníku", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}, {"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "kombinované hasící automobily", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "3700"}

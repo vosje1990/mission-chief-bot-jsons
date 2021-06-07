@@ -1,1 +1,1 @@
-{"missionId": "16", "missionName": "Hořící karavan", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1100"}
+{"missionId": "16", "missionName": "Hořící karavan", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}], "credits": "1100"}

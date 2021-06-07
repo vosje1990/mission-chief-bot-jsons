@@ -1,1 +1,1 @@
-{"missionId": "88", "missionName": "Zaseknutý horolezec", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "650"}
+{"missionId": "88", "missionName": "Zaseknutý horolezec", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "ta", "qty": "1"}, {"requirement": "automobilové žebříky", "qty": "1"}], "credits": "650"}

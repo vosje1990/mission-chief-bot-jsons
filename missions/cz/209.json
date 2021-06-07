@@ -1,1 +1,1 @@
-{"missionId": "209", "missionName": "Otrava jídlem", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1"}
+{"missionId": "209", "missionName": "Otrava jídlem", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}], "credits": "100"}

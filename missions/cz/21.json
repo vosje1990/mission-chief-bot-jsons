@@ -1,1 +1,1 @@
-{"missionId": "21", "missionName": "Hořící komín", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "2400"}
+{"missionId": "21", "missionName": "Hořící komín", "requirements": [{"requirement": "automobilové žebříky", "qty": "1"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}], "credits": "2400"}

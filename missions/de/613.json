@@ -1,1 +1,1 @@
-{"missionId": "613", "missionName": "Intensivverlegung", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "Rettungswache"}
+{"missionId": "613", "missionName": "Intensivverlegung", "requirements": [{"requirement": "itw", "qty": "1"}], "credits": "200"}

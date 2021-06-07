@@ -1,1 +1,1 @@
-{"missionId": "121", "missionName": "Domácí invaze", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "1250"}
+{"missionId": "121", "missionName": "Domácí invaze", "requirements": [{"requirement": "policejní automobily", "qty": "4"}], "credits": "1250"}

@@ -40,6 +40,7 @@
 "gw-taucher" : [63],
 "gw-wasserrettung" : [64],
 "gw-werkfeuerwehr" : [83],
+"itw": [97],
 "kdow lna" : [55],
 "kdow orgl" : [56],
 "kdow-lna" : [55],
@@ -65,6 +66,7 @@
 "mtw-tz" : [40],
 "mzkw" : [41],
 "nef": [29],
+"orgl" : [56],
 "polizeihubschrauber" : [61],
 "r\u00fcstwagen" : [4, 30, 47, 90],
 "radlader (brmg r)" : [43],
@@ -80,11 +82,13 @@
 "rüstwagen oder hlf" : [4, 30, 47, 90],
 "schlauchwagen" : [11, 13, 14, 15, 16, 62],
 "sek-fahrzeuge" : [79, 80],
+"sek-fahrzeug" : [79, 80],
 "sek-mtf" : [80],
 "sek-zf" : [79],
 "streifenwagen" : [32],
 "tauchkraftwagen" : [69],
 "teleskopmasten" : [85],
+"teleskopmast" : [85],
 "thw-einsatzleitung (mtw tz)" : [40],
 "thw-einsatzleitung" : [40],
 "thw-mehrzweckkraftwagen (mzkw)" : [41],
@@ -95,5 +99,6 @@
 "ulf mit l\u00f6scharm" : [84],
 "ulf mit löscharm" : [84],
 "wasserwerfer" : [72],
-"wlf" : [46]
+"wlf" : [46],
+"zivilstreifenwagen" :[98]
 }

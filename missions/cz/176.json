@@ -1,1 +1,1 @@
-{"missionId": "176", "missionName": "Nahlášena výbušnina v nákupním centru", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3600"}
+{"missionId": "176", "missionName": "Nahlášena výbušnina v nákupním centru", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "3600"}
