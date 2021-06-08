@@ -68,6 +68,7 @@
 "mzkw" : [41],
 "nef": [29],
 "nef, rtw" : [29,28],
+"lna, orgl" : [55,56],
 "lna, orgl, rtw" : [55,56,28],
 "nef, lna, orgl" : [28,55,56],
 "nef, lna, orgl, rtw" : [28,55,56,28],
