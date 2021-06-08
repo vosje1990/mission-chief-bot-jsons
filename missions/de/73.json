@@ -1,1 +1,1 @@
-{"missionId": "73", "missionName": "Schlägerei", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "700"}
+{"missionId": "73", "missionName": "Schlägerei", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "rtw", "qty": "2"}, {"requirement": "rtw, naw", "qty": "1"}], "credits": "700"}
