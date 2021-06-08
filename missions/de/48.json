@@ -1,1 +1,1 @@
-{"missionId": "48", "missionName": "Krampfanfall", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "3"}
+{"missionId": "48", "missionName": "Krampfanfall", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "3"}
