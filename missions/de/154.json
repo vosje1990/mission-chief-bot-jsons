@@ -1,1 +1,7 @@
-{"missionId": "154", "missionName": "Hilflose Person", "requirements": [{"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
+{"missionId": "154", 
+"missionName": "Hilflose Person", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}, 
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "100"}

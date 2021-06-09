@@ -1,1 +1,7 @@
-{"missionId": "184", "missionName": "Hitzschlag", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "250"}
+{"missionId": "184", 
+"missionName": "Hitzschlag", 
+"requirements": [
+    {"requirement": "nef", "qty": "1"},
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "250"}

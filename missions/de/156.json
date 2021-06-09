@@ -1,1 +1,6 @@
-{"missionId": "156", "missionName": "Harnleiter Blutung", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "7"}
+{"missionId": "156", 
+"missionName": "Harnleiter Blutung", 
+"requirements": [
+    {"requirement": "rtw, naw", "qty": "1"}
+], 
+"credits": "500"}

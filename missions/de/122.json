@@ -1,1 +1,1 @@
-{"missionId": "122", "missionName": "Motorradunfall", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "600"}
+{"missionId": "122", "missionName": "Motorradunfall", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "600"}

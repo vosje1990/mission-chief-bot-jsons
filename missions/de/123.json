@@ -1,1 +1,8 @@
-{"missionId": "123", "missionName": "Verkehrsunfall", "requirements": [{"requirement": "streifenwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "1100"}
+{"missionId": "123", 
+"missionName": "Verkehrsunfall", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}, 
+    {"requirement": "löschfahrzeuge", "qty": "1"}, 
+    {"requirement": "rtw, naw", "qty": "1"}
+], 
+"credits": "1100"}
