@@ -1,1 +1,6 @@
-{"missionId": "189", "missionName": "Verkehrsbehinderung", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "80"}
+{"missionId": "189", 
+"missionName": "Verkehrsbehinderung", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}
+], 
+"credits": "80"}
