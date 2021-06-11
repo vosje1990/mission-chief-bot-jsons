@@ -1,0 +1,6 @@
+{"missionId": "373", 
+"missionName": "Behandlung nach Schwalbe", 
+"requirements": [
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "500"}

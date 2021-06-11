@@ -1,0 +1,6 @@
+{"missionId": "374", 
+"missionName": "Prellung nach Lattenpraller", 
+"requirements": [
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "500"}
