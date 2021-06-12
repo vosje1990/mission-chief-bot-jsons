@@ -1,1 +1,8 @@
-{"missionId": "437", "missionName": "Taxi - Stiller Alarm", "requirements": [{"requirement": "streifenwagen", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "400"}
+{"missionId": "437", 
+"missionName": "Taxi - Stiller Alarm", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}, 
+    {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "1"}, 
+    {"requirement": "rtw, naw", "qty": "1"}
+], 
+"credits": "400"}
