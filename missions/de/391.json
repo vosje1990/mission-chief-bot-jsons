@@ -1,1 +1,7 @@
-{"missionId": "391", "missionName": "Vergiftung", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "3"}
+{"missionId": "391", 
+"missionName": "Vergiftung", 
+"requirements": [
+    {"requirement": "rtw", "qty": "1"},
+    {"requirement": "nef", "qty": "1"}
+], 
+"credits": "750"}
