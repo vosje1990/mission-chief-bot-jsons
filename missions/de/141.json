@@ -4,7 +4,8 @@
     {"requirement": "gw l 2 wasser", "qty": "1"}, 
     {"requirement": "elw 1", "qty": "1"}, 
     {"requirement": "streifenwagen", "qty": "2"}, 
-    {"requirement": "wasser", "qty": "1"},
+    {"requirement": "wasser", "qty": "2"},
+    {"requirement": "personal", "qty": "2"},
     {"requirement": "löschfahrzeuge", "qty": "1"}
 ], 
 "credits": "3600"}
