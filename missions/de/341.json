@@ -1,1 +1,7 @@
-{"missionId": "341", "missionName": "Krampfanfall", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "3"}
+{"missionId": "341",
+"missionName": "Krampfanfall", 
+"requirements": [
+    {"requirement": "nef", "qty": "1"},
+    {"requirement": "rtw", "qty": "1"}
+],
+"credits": "750"}

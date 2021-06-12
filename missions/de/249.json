@@ -1,1 +1,15 @@
-{"missionId": "249", "missionName": "Bus in Wasser", "requirements": [{"requirement": "streifenwagen", "qty": "3"}, {"requirement": "boote", "qty": "3"}, {"requirement": "gw-taucher", "qty": "3"}, {"requirement": "löschfahrzeuge", "qty": "5"}, {"requirement": "elw 1", "qty": "1"},{"requirement": "gw-wasserrettung", "qty": "2"}, {"requirement": "maximale patientenanzahl", "qty": "15"}], "credits": "3000"}
+{"missionId": "249", 
+"missionName": "Bus in Wasser", 
+"requirements": [{
+    "requirement": "streifenwagen", "qty": "3"}, 
+    {"requirement": "boote", "qty": "3"}, 
+    {"requirement": "gw-taucher", "qty": "3"},
+    {"requirement": "löschfahrzeuge", "qty": "5"}, 
+    {"requirement": "elw 1", "qty": "1"},
+    {"requirement": "gw-wasserrettung", "qty": "2"}, 
+    {"requirement": "rtw, naw", "qty": "15"},
+    {"requirement": "nef", "qty": "5"},
+    {"requirement": "lna", "qty": "1"},
+    {"requirement": "orgl", "qty": "1"}
+], 
+"credits": "3000"}

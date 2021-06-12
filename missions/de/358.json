@@ -1,1 +1,12 @@
-{"missionId": "358", "missionName": "Banküberfall", "requirements": [{"requirement": "streifenwagen", "qty": "8"}, {"requirement": "polizeihubschrauber", "qty": "1"}, {"requirement": "sek-fahrzeuge", "qty": "4"}, {"requirement": "fükw", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "4"}], "credits": "4000"}
+{"missionId": "358", 
+"missionName": "Banküberfall", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "6"}, 
+    {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "2"}, 
+    {"requirement": "polizeihubschrauber", "qty": "1"}, 
+    {"requirement": "sek-fahrzeuge", "qty": "4"}, 
+    {"requirement": "fükw", "qty": "1"}, 
+    {"requirement": "nef", "qty": "1"},
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "4000"}

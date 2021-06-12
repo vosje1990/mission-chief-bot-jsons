@@ -1,1 +1,6 @@
-{"missionId": "209", "missionName": "Fahrraddiebstahl", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "150"}
+{"missionId": "209", 
+"missionName": "Fahrraddiebstahl", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}
+], 
+"credits": "150"}

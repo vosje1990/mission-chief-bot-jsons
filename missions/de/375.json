@@ -1,1 +1,6 @@
-{"missionId": "375", "missionName": "Tor gefallen", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "300"}
+{"missionId": "375", 
+"missionName": "Tor gefallen", 
+"requirements": [
+    {"requirement": "löschfahrzeuge", "qty": "1"}
+], 
+"credits": "300"}
