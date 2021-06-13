@@ -2,6 +2,7 @@
 "missionName": "Gefahrgut-LKW verunglückt", 
 "requirements": [
     {"requirement": "gkw", "qty": "1"}, 
+    {"requirement": "radlader (brmg r)", "qty": "1"}, 
     {"requirement": "löschfahrzeuge", "qty": "3"}, 
     {"requirement": "elw 1", "qty": "1"}, 
     {"requirement": "elw 2", "qty": "1"}, 
