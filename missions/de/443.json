@@ -1,10 +1,1 @@
-{"missionId": "443", 
-"missionName": "Osterei-LKW umgestürzt", 
-"requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "2"}, 
-    {"requirement": "rüstwagen", "qty": "1"}, 
-    {"requirement": "elw 1", "qty": "1"}, 
-    {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, 
-    {"requirement": "maximale patientenanzahl", "qty": "2"}]
-, 
-"credits": "2200"}
+{"missionId": "443", "missionName": "Osterei-LKW umgestürzt", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "feuerwehrkräne (fwk)", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "2200"}

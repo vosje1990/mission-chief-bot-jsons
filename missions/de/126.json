@@ -1,9 +1,1 @@
-{"missionId": "126", 
-"missionName": "Verkehrsunfall", 
-"requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "2"}, 
-    {"requirement": "rüstwagen", "qty": "1"}, 
-    {"requirement": "rtw, naw", "qty": "2"},
-    {"requirement": "rtw", "qty": "2"},
-    {"requirement": "nef", "qty": "2"}
-], "credits": "2000"}
+{"missionId": "126", "missionName": "Verkehrsunfall", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "rtw, naw", "qty": "2"}, {"requirement": "rtw", "qty": "2"}, {"requirement": "nef", "qty": "2"}], "credits": "2000"}

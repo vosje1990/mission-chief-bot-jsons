@@ -1,6 +1,1 @@
-{"missionId": "183", 
-"missionName": "Sonnenstich", 
-"requirements": [
-    {"requirement": "rtw, naw", "qty": "1"}
-], 
-"credits": "250"}
+{"missionId": "183", "missionName": "Sonnenstich", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "250"}

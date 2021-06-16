@@ -1,7 +1,1 @@
-{"missionId": "426", 
-"missionName": "Gebrochenes Bein", 
-"requirements": [
-    {"requirement": "rtw", "qty": "1"},
-    {"requirement": "nef", "qty": "1"}
-], 
-"credits": "750"}
+{"missionId": "426", "missionName": "Gebrochenes Bein", "requirements": [ {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "750"}

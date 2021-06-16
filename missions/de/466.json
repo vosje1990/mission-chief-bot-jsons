@@ -1,6 +1,1 @@
-{"missionId": "466", 
-"missionName": "Badeunfall", 
-"requirements": [
-    {"requirement": "rtw, naw", "qty": "1"}
-], 
-"credits": "500"}
+{"missionId": "466", "missionName": "Badeunfall", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}

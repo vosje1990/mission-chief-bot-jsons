@@ -1,7 +1,1 @@
-{"missionId": "416", 
-"missionName": "Jäger stürzt von Hochsitz", 
-"requirements": [
-    {"requirement": "rtw, naw", "qty": "1"},
-    {"requirement": "löschfahrzeuge", "qty": "1"}
-], 
-"credits": "750"}
+{"missionId": "416", "missionName": "Jäger stürzt von Hochsitz", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "750"}

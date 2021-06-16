@@ -1,6 +1,1 @@
-{"missionId": "212", 
-"missionName": "Akute Bauchschmerzen", 
-"requirements": [
-    {"requirement": "rtw, naw", "qty": "1"}
-], 
-"credits": "500"}
+{"missionId": "212", "missionName": "Akute Bauchschmerzen", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}

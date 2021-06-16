@@ -1,17 +1,1 @@
-{"missionId": "488", 
-"missionName": "Massenanfall an Erkrankten - Stadion", 
-"requirements": [
-    {"requirement": "streifenwagen", "qty": "14"}, 
-    {"requirement": "löschfahrzeuge", "qty": "16"}, 
-    {"requirement": "rüstwagen", "qty": "1"}, 
-    {"requirement": "elw 1", "qty": "3"}, 
-    {"requirement": "elw 2", "qty": "1"}, 
-    {"requirement": "gw-a", "qty": "1"}, 
-    {"requirement": "gw-mess", "qty": "1"}, 
-    {"requirement": "rtw, naw", "qty": "25"},
-    {"requirement": "nef", "qty": "10"},
-    {"requirement": "lna", "qty": "1"},
-    {"requirement": "orgl", "qty": "1"},
-    {"requirement": "elw 1 (seg)", "qty": "1"}
-], 
-"credits": "15000"}
+{"missionId": "488", "missionName": "Massenanfall an Erkrankten - Stadion", "requirements": [ {"requirement": "streifenwagen", "qty": "14"}, {"requirement": "löschfahrzeuge", "qty": "16"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "elw 1", "qty": "3"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "rtw, naw", "qty": "25"}, {"requirement": "nef", "qty": "10"}, {"requirement": "lna", "qty": "1"}, {"requirement": "orgl", "qty": "1"}, {"requirement": "elw 1 (seg)", "qty": "1"}], "credits": "15000"}

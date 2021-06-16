@@ -1,6 +1,1 @@
-{"missionId": "397", 
-"missionName": "Schnittwunde", 
-"requirements": [
-    {"requirement": "rtw", "qty": "1"}
-], 
-"credits": "500"}
+{"missionId": "397", "missionName": "Schnittwunde", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}

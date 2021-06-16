@@ -1,8 +1,1 @@
-{"missionId": "415", 
-"missionName": "Jäger verletzt Passant durch Schuss", 
-"requirements": [
-    {"requirement": "streifenwagen", "qty": "1"}, 
-    {"requirement": "nef", "qty": "1"},
-    {"requirement": "rtw", "qty": "1"}
-], 
-"credits": "200"}
+{"missionId": "415", "missionName": "Jäger verletzt Passant durch Schuss", "requirements": [ {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "200"}
