@@ -1,6 +1,1 @@
-{"missionId": "211", 
-"missionName": "Unterzuckerung", 
-"requirements": [
-    {"requirement": "rtw, naw", "qty": "1"}
-], 
-"credits": "500"}
+{"missionId": "211", "missionName": "Unterzuckerung", "requirements": [ {"requirement": "rtw, naw", "qty": "1"}], "credits": "500"}

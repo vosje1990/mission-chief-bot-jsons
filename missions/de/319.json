@@ -1,10 +1,1 @@
-{"missionId": "319",
-"missionName": "Person in Baugrube", 
-"requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "1"}, 
-    {"requirement": "drehleitern", "qty": "1"}, 
-    {"requirement": "rüstwagen", "qty": "1"}, 
-    {"requirement": "nef", "qty": "1"},
-    {"requirement": "rtw", "qty": "1"}
-], 
-"credits": "1000"}
+{"missionId": "319","missionName": "Person in Baugrube", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "1000"}

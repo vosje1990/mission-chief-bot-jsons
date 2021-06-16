@@ -1,14 +1,1 @@
-{"missionId": "369", 
-    "missionName": "Austritt Kohlenmonoxid", 
-    "requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "2"}, 
-    {"requirement": "drehleitern", "qty": "1"}, 
-    {"requirement": "rüstwagen", "qty": "1"}, 
-    {"requirement": "gw-mess", "qty": "1"}, 
-    {"requirement": "elw 1", "qty": "1"}, 
-    {"requirement": "streifenwagen", "qty": "1"}, 
-    {"requirement": "nef", "qty": "1"},
-    {"requirement": "rtw", "qty": "2"},
-    {"requirement": "rth", "qty": "1"}
-], 
-"credits": "1800"}
+{"missionId": "369", "missionName": "Austritt Kohlenmonoxid", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "2"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "streifenwagen", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "2"}, {"requirement": "rth", "qty": "1"}], "credits": "1800"}

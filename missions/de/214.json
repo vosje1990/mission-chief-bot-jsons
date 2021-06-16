@@ -1,16 +1,1 @@
-{"missionId": "214", 
-"missionName": "Bürobrand", 
-"requirements": [
-    {"requirement": "rüstwagen", "qty": "2"}, 
-    {"requirement": "löschfahrzeuge", "qty": "6"}, 
-    {"requirement": "elw 1", "qty": "1"}, 
-    {"requirement": "elw 2", "qty": "1"}, 
-    {"requirement": "drehleitern", "qty": "2"}, 
-    {"requirement": "gw-a", "qty": "1"}, 
-    {"requirement": "streifenwagen", "qty": "2"}, 
-    {"requirement": "rtw, naw", "qty": "10"},
-    {"requirement": "nef", "qty": "4"},
-    {"requirement": "lna", "qty": "1"},
-    {"requirement": "orgl", "qty": "1"}
-], 
-"credits": "3000"}
+{"missionId": "214", "missionName": "Bürobrand", "requirements": [ {"requirement": "rüstwagen", "qty": "2"}, {"requirement": "löschfahrzeuge", "qty": "6"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "drehleitern", "qty": "2"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}, {"requirement": "rtw, naw", "qty": "10"}, {"requirement": "nef", "qty": "4"}, {"requirement": "lna", "qty": "1"}, {"requirement": "orgl", "qty": "1"}], "credits": "3000"}

@@ -1,1 +1,1 @@
-{"missionId": "538", "missionName": "Verbrennung", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "6"}
+{"missionId": "538", "missionName": "Verbrennung", "requirements": [{"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "rth", "qty": "1"}], "credits": "800"}

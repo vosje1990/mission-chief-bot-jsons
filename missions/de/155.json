@@ -1,6 +1,1 @@
-{"missionId": "155", 
-"missionName": "Akuter Harnstau", 
-"requirements": [
-    {"requirement": "rtw", "qty": "1"}
-], 
-"credits": "500"}
+{"missionId": "155", "missionName": "Akuter Harnstau", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}

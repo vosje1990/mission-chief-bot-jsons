@@ -1,1 +1,14 @@
-{"missionId": "34", "missionName": "Brand im Supermarkt", "requirements": [{"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "3"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "elw 2", "qty": "1"}, {"requirement": "drehleitern", "qty": "1"}, {"requirement": "gw-mess", "qty": "1"}, {"requirement": "rtw, naw", "qty": "2"}, {"requirement": "rtw", "qty": "1"}], "credits": "3710"}
+{"missionId": "34", 
+"missionName": "Brand im Supermarkt", 
+"requirements": [
+    {"requirement": "rüstwagen", "qty": "1"}, 
+    {"requirement": "personal", "qty": "1"},
+    {"requirement": "löschfahrzeuge", "qty": "3"}, 
+    {"requirement": "elw 1", "qty": "1"}, 
+    {"requirement": "elw 2", "qty": "1"}, 
+    {"requirement": "drehleitern", "qty": "1"}, 
+    {"requirement": "gw-mess", "qty": "1"}, 
+    {"requirement": "rtw, naw", "qty": "2"}, 
+    {"requirement": "rtw", "qty": "1"}
+], 
+"credits": "3710"}

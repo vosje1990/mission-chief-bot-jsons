@@ -1,11 +1,1 @@
-{"missionId": "298", 
-"missionName": "Hilflose Person auf Wasser", 
-"requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "1"}, 
-    {"requirement": "boote", "qty": "1"}, 
-    {"requirement": "gw-taucher", "qty": "1"},
-    {"requirement": "gw-wasserrettung", "qty": "1"}, 
-    {"requirement": "nef", "qty": "1"},
-    {"requirement": "rtw", "qty": "1"}
-], 
-"credits": "1500"}
+{"missionId": "298", "missionName": "Hilflose Person auf Wasser", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "boote", "qty": "1"}, {"requirement": "gw-taucher", "qty": "1"}, {"requirement": "gw-wasserrettung", "qty": "1"}, {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "1500"}

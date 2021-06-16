@@ -1,6 +1,1 @@
-{"missionId": "371", 
-"missionName": "Fußball aufpumpen", 
-"requirements": [
-    {"requirement": "löschfahrzeuge", "qty": "1"}
-], 
-"credits": "300"}
+{"missionId": "371", "missionName": "Fußball aufpumpen", "requirements": [ {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "300"}
