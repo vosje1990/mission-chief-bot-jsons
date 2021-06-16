@@ -1,1 +1,1 @@
-{"missionId": "595", "missionName": "Person von Blitz getroffen", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "5"}
+{"missionId": "595", "missionName": "Person von Blitz getroffen", "requirements": [{"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "500"}
