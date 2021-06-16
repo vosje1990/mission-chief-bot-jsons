@@ -1,6 +1,1 @@
-{"missionId": "641", 
-"missionName": "Flitzer auf dem Spielfeld", 
-"requirements": [
-    {"requirement": "streifenwagen", "qty": "1"}
-],
- "credits": "400"}
+{"missionId": "641", "missionName": "Flitzer auf dem Spielfeld", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "400"}
