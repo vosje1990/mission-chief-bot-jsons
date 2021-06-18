@@ -1,1 +1,1 @@
-{"missionId": "390", "missionName": "Incendio boschivo (PICCOLO)", "requirements": [{"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}], "credits": "2000"}
+{"missionId": "390", "missionName": "Incendio boschivo (PICCOLO)", "requirements": [{"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "aps/abp", "qty": "2"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "mezzo aib", "qty": "2"}], "credits": "2000"}
