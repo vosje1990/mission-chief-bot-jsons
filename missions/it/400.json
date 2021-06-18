@@ -1,1 +1,1 @@
-{"missionId": "400", "missionName": "Incendio Cascina", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "max pazienti", "qty": "6"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "3000"}
+{"missionId": "400", "missionName": "Incendio Cascina", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "dos", "qty": "1"}, {"requirement": "mezzo aib", "qty": "2"}, {"requirement": "max pazienti", "qty": "6"}], "credits": "3000"}

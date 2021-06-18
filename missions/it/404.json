@@ -1,1 +1,1 @@
-{"missionId": "404", "missionName": "Bonifica Incendio Boschivo (GRANDISSIMO)", "requirements": [{"requirement": "aps/abp", "qty": "4"}], "credits": "9500"}
+{"missionId": "404", "missionName": "Bonifica Incendio Boschivo (GRANDISSIMO)", "requirements": [{"requirement": "mezzo aib", "qty": "8"}, {"requirement": "aps/abp", "qty": "4"}, {"requirement": "dos", "qty": "1"}, {"requirement": "ucl", "qty": "1"}], "credits": "9500"}
