@@ -1,1 +1,1 @@
-{"missionId": "628", "missionName": "Brennendes Campingzelt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "2"}], "credits": "1200"}
+{"missionId": "628", "missionName": "Brennendes Campingzelt", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rtw, naw", "qty": "2"}], "credits": "1200"}

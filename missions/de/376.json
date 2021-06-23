@@ -1,1 +1,1 @@
-{"missionId": "376", "missionName": "Pokal geklaut", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "600"}
+{"missionId": "376", "missionName": "Pokal geklaut", "requirements": [ {"requirement": "zivilstreifenwagen, streifenwagen", "qty": "2"}], "credits": "300"}

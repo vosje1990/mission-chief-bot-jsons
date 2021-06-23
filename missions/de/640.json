@@ -1,1 +1,1 @@
-{"missionId": "640", "missionName": "Amputationsverletzung", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "None"}
+{"missionId": "640", "missionName": "Amputationsverletzung", "requirements": [{"requirement": "rtw", "qty": "1"},{"requirement": "nef", "qty": "1"}], "credits": "750"}
