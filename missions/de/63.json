@@ -1,1 +1,6 @@
-{"missionId": "63", "missionName": "Parkendes Auto gerammt", "requirements": [{"requirement": "streifenwagen", "qty": "1"}], "credits": "120"}
+{"missionId": "63", 
+"missionName": "Parkendes Auto gerammt", 
+"requirements": [
+    {"requirement": "streifenwagen", "qty": "1"}
+], 
+"credits": "120"}

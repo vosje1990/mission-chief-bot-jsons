@@ -1,1 +1,1 @@
-{"missionId": "312", "missionName": "Verunglückter Fallschirmspringer", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "5"}
+{"missionId": "312", "missionName": "Verunglückter Fallschirmspringer", "requirements": [ {"requirement": "nef", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "750"}

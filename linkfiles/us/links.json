@@ -1,4 +1,7 @@
 {
+ "air ambulance": [
+  11
+ ],
  "airborne firefighting vehicle": [
   37,
   35
@@ -114,13 +117,16 @@
   51
  ],
  "ems chief": [
-  29
+  29,
+60
  ],
  "EMS chief": [
-  29
+  29,
+60
  ],
  "EMS Chief": [
-  29
+  29,
+60
  ],
  "ems chief, ambulance": [
   5
@@ -130,6 +136,10 @@
  ],
  "ems fire engine/ambulance": [
   48
+ ],
+ "ems mobile command": [
+  60,
+29
  ],
  "ems rescue": [
   28
@@ -458,8 +468,5 @@
   32,
   38,
   39
- ],
- "air ambulance": [
-  11
  ]
 }

@@ -1,1 +1,2 @@
-{"missionId": "645", "missionName": "Brand Holzpolter", "requirements": [{"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "elw 1", "qty": "1"}, {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "gw-a", "qty": "1"}, {"requirement": "streifenwagen", "qty": "2"}], "credits": "8000"}
+{"missionId": "645", "missionName": "Brand Holzpolter", "requirements": [ {"requirement": "gw l 2 wasser", "qty": "1"}, {"requirement": "gw-a", "qty": "1"},{"requirement": "streifenwagen", "qty": "2"},  {"requirement": "elw 1", "qty": "1"}, {"requirement": "wasser", "qty": "6"}, {"requirement": "personal", "qty": "6"}, {"requirement": "löschfahrzeuge", "qty": "1"}], "credits": "8000"}
+

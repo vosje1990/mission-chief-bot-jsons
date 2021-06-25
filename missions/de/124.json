@@ -1,1 +1,1 @@
-{"missionId": "124", "missionName": "Verkehrsunfall", "requirements": [{"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "maximale patientenanzahl", "qty": "3"}], "credits": "1600"}
+{"missionId": "124", "missionName": "Verkehrsunfall", "requirements": [ {"requirement": "rüstwagen", "qty": "1"}, {"requirement": "löschfahrzeuge", "qty": "1"}, {"requirement": "rtw, naw", "qty": "2"}, {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "1600"}

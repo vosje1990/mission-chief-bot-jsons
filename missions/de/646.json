@@ -1,1 +1,1 @@
-{"missionId": "646", "missionName": "Absicherung Schwimmwettbewerb", "requirements": [{"requirement": "rtw", "qty": "1"}, {"requirement": "boote", "qty": "1"}], "credits": "2000"}
+{"missionId": "646", "missionName": "Absicherung Schwimmwettbewerb", "requirements": [{"requirement": "boot", "qty": "1"}, {"requirement": "rtw", "qty": "1"}], "credits": "2000"}

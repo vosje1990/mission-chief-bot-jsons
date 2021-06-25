@@ -1,1 +1,1 @@
-{"missionId": "427", "missionName": "Gebrochener Arm", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "3"}
+{"missionId": "427", "missionName": "Gebrochener Arm", "requirements": [ {"requirement": "rtw", "qty": "1"}, {"requirement": "nef", "qty": "1"}], "credits": "750"}

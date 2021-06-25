@@ -1,1 +1,1 @@
-{"missionId": "374", "missionName": "Prellung nach Lattenpraller", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "None"}
+{"missionId": "374", "missionName": "Prellung nach Lattenpraller", "requirements": [ {"requirement": "rtw", "qty": "1"}], "credits": "500"}
