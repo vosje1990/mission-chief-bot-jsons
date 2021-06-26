@@ -1,5 +1,6 @@
 {
 "ambulance" : [28, 73],
+"außenlastbehälter (allgemein)" : [96],
 "anhänger drucklufterzeugung" : [44],
 "boot" : [66, 67, 68, 70, 71],
 "boote" : [66, 67, 68, 70, 71],
@@ -99,6 +100,7 @@
 "sek-mtf" : [80],
 "sek-zf" : [79],
 "streifenwagen" : [32],
+"fustw" : [32],
 "tauchkraftwagen" : [69],
 "teleskopmasten" : [85],
 "teleskopmast" : [85],
