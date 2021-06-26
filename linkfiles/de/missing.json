@@ -1,5 +1,6 @@
 {
 "ambulance" : [28, 73],
+"außenlastbehälter (allgemein)" : [96],
 "anhänger drucklufterzeugung" : [44],
 "boot" : [66, 67, 68, 70, 71],
 "boote" : [66, 67, 68, 70, 71],
@@ -99,6 +100,7 @@
 "sek-mtf" : [80],
 "sek-zf" : [79],
 "streifenwagen" : [32],
+"fustw" : [32],
 "tauchkraftwagen" : [69],
 "teleskopmasten" : [85],
 "teleskopmast" : [85],
@@ -112,7 +114,11 @@
 "ulf mit löscharm" : [84],
 "wasserwerfer" : [72],
 "wlf" : [46],
-"zivilstreifenwagen" :[98]
+"zivilstreifenwagen" :[98],
+"boote wir benötigen noch min 12 polizisten" : [32],
+"gw-messtechnik wir benötigen noch min 1 feuerwehrmann" : [36, 5, 27, 33, 12, 10, 57, 75, 2, 84, 46, 0, 1, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 30, 37, 87, 88, 89, 90],
+"rtw oder ktw oder ktw-b wir benötigen noch min 1 feuerwehrmann" : [36, 5, 27, 33, 12, 10, 57, 75, 2, 84, 46, 0, 1, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 30, 37, 87, 88, 89, 90],
+"elw 1 wir benötigen noch min 1 feuerwehrmann" : [36, 5, 27, 33, 12, 10, 57, 75, 2, 84, 46, 0, 1, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 30, 37, 87, 88, 89, 90]
 }
 
 
