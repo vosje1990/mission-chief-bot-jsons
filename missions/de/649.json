@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"missionId": "649", "missionName": "Knalltrauma", "requirements": [{"requirement": "rtw, naw", "qty": "1"}], "credits": "530"}
-=======
-{"missionId": "649", "missionName": "Knalltrauma", "requirements": [{"requirement": "maximale patientenanzahl", "qty": "1"}], "credits": "100"}
->>>>>>> 096a67ba5932db99df881577ea6efe2cffca750f
