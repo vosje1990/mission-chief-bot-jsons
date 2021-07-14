@@ -1,1 +1,1 @@
-{"missionId": "58", "missionName": "Feu de cuisine", "requirements": [{"requirement": "fourgons d’incendie", "qty": "2"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "chefs de groupe", "qty": "1"}], "credits": "1000"}
+{"missionId": "58", "missionName": "Feu de bar", "requirements": [{"requirement": "fourgons d’incendie", "qty": "3"}, {"requirement": "moyen elévateur aérien", "qty": "1"}, {"requirement": "Voitures de police", "qty": "2"}, {"requirement": "chefs de groupe", "qty": "1"}], "credits": "1000"}
