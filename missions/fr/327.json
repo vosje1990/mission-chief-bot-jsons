@@ -1,1 +1,1 @@
-{"missionId": "327", "missionName": "Accident de motocross", "requirements": [{"requirement": "postes de secours", "qty": "3"}, {"requirement": "max. patients", "qty": "3"}, {"requirement": "probabilité qu'un médecin soit", "qty": "50"}], "credits": "1"}
+{"missionId": "327", "missionName": "Accident de motocross", "requirements": [{"requirement": "max. patients", "qty": "3"}, {"requirement": "probabilité qu'un médecin soit", "qty": "50"}], "credits": "1"}

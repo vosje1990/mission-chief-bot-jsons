@@ -1,1 +1,1 @@
-{"missionId": "310", "missionName": "Personne inconsciente qui ne réspire pas", "requirements": [{"requirement": "postes de secours", "qty": "5"}, {"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "100"}], "credits": "5"}
+{"missionId": "310", "missionName": "Personne inconsciente qui ne réspire pas", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "100"}], "credits": "5"}
