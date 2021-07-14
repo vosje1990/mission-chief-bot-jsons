@@ -1,1 +1,1 @@
-{"missionId": "270", "missionName": "Feu de broussailles", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "700"}
+{"missionId": "270", "missionName": "Feu de broussailles", "requirements": [{"requirement": "ccf", "qty": 1}], "credits": "700"}

@@ -1,1 +1,1 @@
-{"missionId": "268", "missionName": "Feu d'engin agricole", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "300"}
+{"missionId": "268", "missionName": "Feu d'engin agricole", "requirements": [{"requirement": "ccf", "qty": 1}], "credits": "300"}

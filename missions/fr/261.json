@@ -1,1 +1,1 @@
-{"missionId": "261", "missionName": "Feu de forêt - Moyen", "requirements": [{"requirement": "vlhr", "qty": "1"}], "credits": "Forêt"}
+{"missionId": "261", "missionName": "Feu de forêt - Moyen", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "5"}], "credits": "5000"}
