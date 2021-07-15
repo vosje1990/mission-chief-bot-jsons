@@ -1,1 +1,1 @@
-{"missionId": "307", "missionName": "Chute dans les escaliers", "requirements": [{"requirement": "postes de secours", "qty": "2"}, {"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "40"}], "credits": "2"}
+{"missionId": "307", "missionName": "Chute dans les escaliers", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "40"}], "credits": "2"}

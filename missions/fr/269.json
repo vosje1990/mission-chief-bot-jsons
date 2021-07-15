@@ -1,1 +1,1 @@
-{"missionId": "269", "missionName": "Feu de végétation", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "200"}
+{"missionId": "269", "missionName": "Feu de végétation", "requirements": [{"requirement": "ccf", "qty": 1}], "credits": "200"}

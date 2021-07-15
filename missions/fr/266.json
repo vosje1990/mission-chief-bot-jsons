@@ -1,1 +1,1 @@
-{"missionId": "266", "missionName": "Brûlage dirigé - Grand", "requirements": [{"requirement": "vlhr", "qty": "2"}], "credits": "Forêt"}
+{"missionId": "266", "missionName": "Brûlage dirigé - Grand", "requirements": [{"requirement": "vlhr", "qty": "2"}, {"requirement": "ccf", "qty": "7"}], "credits": "8000"}

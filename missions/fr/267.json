@@ -1,1 +1,1 @@
-{"missionId": "267", "missionName": "Dégagement de coupe-feu", "requirements": [{"requirement": "vlhr", "qty": "1"}], "credits": "Forêt"}
+{"missionId": "267", "missionName": "Dégagement de coupe-feu", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "1"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "271", "missionName": "Feu de récolte sur pied (petit)", "requirements": [{"requirement": "camions-citernes", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}], "credits": "1500"}
+{"missionId": "271", "missionName": "Feu de récolte sur pied (petit)", "requirements": [{"requirement": "camions-citernes", "qty": "1"}, {"requirement": "chefs de groupe ou vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "3"}], "credits": "1500"}

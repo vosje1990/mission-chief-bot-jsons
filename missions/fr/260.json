@@ -1,1 +1,1 @@
-{"missionId": "260", "missionName": "Feu de forêt - Petit", "requirements": [{"requirement": "vlhr", "qty": "1"}], "credits": "Forêt"}
+{"missionId": "260", "missionName": "Feu de forêt - Petit", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "2"}], "credits": "1"}

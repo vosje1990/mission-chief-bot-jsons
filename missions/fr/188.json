@@ -1,1 +1,1 @@
-{"missionId": "188", "missionName": "504 Gateway Time-out", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "3000"}
+{"missionId": "188", "missionName": "Feu de balcon causé par des feux d'artifice", "requirements": [{"requirement": "fourgons d\u2019incendie", "qty": 2}, {"requirement": "moyen élévateur aérien", "qty": 1}], "credits": "3000"}

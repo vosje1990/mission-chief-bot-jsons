@@ -1,1 +1,1 @@
-{"missionId": "265", "missionName": "Brûlage dirigé - Moyen", "requirements": [{"requirement": "vlhr", "qty": "1"}], "credits": "Forêt"}
+{"missionId": "265", "missionName": "Brûlage dirigé - Moyen", "requirements": [{"requirement": "vlhr", "qty": "1"}, {"requirement": "ccf", "qty": "5"}], "credits": "1000"}
