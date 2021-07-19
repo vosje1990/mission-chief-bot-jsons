@@ -1,7 +1,6 @@
 {
  "aerial pumper": [
-  2,
-  13
+  2, 13
  ],
  "air ambulance": [
   9
@@ -25,18 +24,10 @@
   21
  ],
  "fire engine": [
-  0,
-  1,
-  12,
-  13,
-  19
+  0, 1, 12, 13, 19
  ],
  "fire engines": [
-  0,
-  1,
-  12,
-  13,
-  19
+  0, 1, 12, 13, 19
  ],
  "hazmat truck": [
   7
@@ -54,12 +45,10 @@
   16
  ],
  "major rescue vehicle": [
-  4,
-  12
+  4, 12
  ],
  "major rescue vehicles": [
-  4,
-  12
+  4, 12
  ],
  "max. patients": [
   5
@@ -89,12 +78,10 @@
   14
  ],
  "rescue pumper": [
-  4,
-  12
+  4, 12
  ],
  "rescue": [
-  4,
-  12
+  4, 12
  ],
  "ses": [
   21
@@ -109,12 +96,10 @@
   15
  ],
  "TOG Personnel": [
-  15,
-  18
+  15, 18
  ],
  "turntable ladder trucks": [
-  2,
-  13
+  2, 13
  ],
  "water carrier": [
   6
@@ -129,29 +114,18 @@
   23
  ],
  "tog personnel": [
-  15,
-  18
+  15, 18
  ],
  "brush trucks": [
-  19,
-  28,
-  29,
-  30
+  19, 28, 29, 30
  ],
  "brush truck": [
-  19,
-  28,
-  29,
-  30
+  19, 28, 29, 30
  ],
   "airborne firefighting vehicles": [
-  31,
-  32,
-  33
+  31, 32, 33
  ],
  "airborne firefighting vehicles": [
-  31,
-  32,
-  33
+  31, 32, 33
  ]
 }
