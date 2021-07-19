@@ -4,7 +4,7 @@
   "corpos de bombeiros necessários" : [0,1,11],
   "veículos de combate a incêndios" : [0,1,11],
   "veículos de combate a incêndios necessários:" : [0,1,11],
-    "caminh\u00f5es plataforma necess\u00e1rios" : [2], 
+  "caminh\u00f5es plataforma necess\u00e1rios" : [2], 
   "veículo escada" : [2],
   "veículos escada" : [2],
   "veículos de escada necessários" : [2],
@@ -16,7 +16,7 @@
   "veículos de comando" : [3],
   "veículos de comando necessários" : [3],
   "veículos de comando necessários:" : [3],
-  "veículos de comando tático necessários:" : [6]
+  "veículos de comando tático necessários:" : [6],
   "ve\u00edculos de resgate pesado necess\u00e1rios" : [4,11],
   "veículo(s) de desencarceramento" : [4,11],
   "veículo de desencarceramento" : [4,11],
