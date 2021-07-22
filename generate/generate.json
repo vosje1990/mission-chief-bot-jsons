@@ -33,7 +33,11 @@
     "Benötigte",
     "Wymagane",
     "Maximale patiënten aantal",
-    "Maks. antal patienter"
+    "Maks. antal patienter",
+    "최대 환자",
+    "필요한",
+    "が必要",
+    "最大患者"
   ],
   "exclude": [
     "Station",
@@ -74,7 +78,12 @@
     "Possibilità",
     "Possibile",
     "brandstationer",
-    "räddningsstationer"
+    "räddningsstationer",
+    "소방서",
+    "구조대",
+    "ステーション",
+    "な確率",
+    "れる確"
   ],
   "replace": [
     "\n",
@@ -96,7 +105,9 @@
     "Se necesitan",
     "Požadované",
     "Wymaganych radiowozów",
-    "ch radiowozów"
+    "ch radiowozów",
+    "필요한",
+    "が必要"
   ]
 }
 
