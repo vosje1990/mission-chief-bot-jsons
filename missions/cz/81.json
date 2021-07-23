@@ -1,1 +1,1 @@
-{"missionId": "81", "missionName": "Vážné poranění hlavy", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "3"}], "credits": "100"}
+{"missionId": "81", "missionName": "Vážné poranění hlavy", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}

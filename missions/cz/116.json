@@ -1,1 +1,1 @@
-{"missionId": "116", "missionName": "Střední násilný protest", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "3"}, {"requirement": "policejní automobily", "qty": "7"}], "credits": "3000"}
+{"missionId": "116", "missionName": "Střední násilný protest", "requirements": [{"requirement": "policejní automobily", "qty": "7"}, {"requirement": "maximum pacientů", "qty": "5"}], "credits": "3000"}

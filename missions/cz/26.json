@@ -1,1 +1,1 @@
-{"missionId": "26", "missionName": "Malý požár v supermarketu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}], "credits": "1500"}
+{"missionId": "26", "missionName": "Malý požár v supermarketu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "4"}, {"requirement": "velitelské automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "2"}], "credits": "1500"}
