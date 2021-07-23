@@ -1,1 +1,1 @@
-{"missionId": "64", "missionName": "Nehoda autobusu", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "8"}, {"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}], "credits": "1000"}
+{"missionId": "64", "missionName": "Nehoda autobusu", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "2"}, {"requirement": "ta", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "12"}], "credits": "1000"}

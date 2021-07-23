@@ -1,1 +1,1 @@
-{"missionId": "314", "missionName": "Požití chemikálií", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}], "credits": "100"}
+{"missionId": "314", "missionName": "Požití chemikálií", "requirements": [{"requirement": "maximum pacientů", "qty": "1"}], "credits": "100"}

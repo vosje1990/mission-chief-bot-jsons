@@ -1,1 +1,1 @@
-{"missionId": "115", "missionName": "Malý násilný protest", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "2"}, {"requirement": "policejní automobily", "qty": "4"}], "credits": "2200"}
+{"missionId": "115", "missionName": "Malý násilný protest", "requirements": [{"requirement": "policejní automobily", "qty": "4"}, {"requirement": "maximum pacientů", "qty": "3"}], "credits": "2200"}

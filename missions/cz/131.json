@@ -1,1 +1,1 @@
-{"missionId": "131", "missionName": "Nehoda auta s cyklistou", "requirements": [{"requirement": "výjezdové stanoviště zzs", "qty": "1"}, {"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}], "credits": "1200"}
+{"missionId": "131", "missionName": "Nehoda auta s cyklistou", "requirements": [{"requirement": "cisternové automobilové stříkačky", "qty": "1"}, {"requirement": "policejní automobily", "qty": "1"}, {"requirement": "maximum pacientů", "qty": "1"}], "credits": "1200"}
