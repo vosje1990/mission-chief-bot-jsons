@@ -1,13 +1,14 @@
 {
-    "cas" : [0, 1],
-    "cisternové automobilové stříkačky" : [0, 1],
-    "CAS 20" : [0, 1],
-    "CAS 30" : [0, 1],
-    "velitelské automobily": [3],
-    "automobilové žebříky": [2],
-    "policejní automobily" : [8],
-    "ta" : [4],
-    "ambulance": [5],
-    "maximum pacientů" : [5],
-    "ap nebo az" : [10 ,2]
+  "cas": [0, 1],
+  "cisternové automobilové stříkačky": [0, 1],
+  "CAS 20": [0, 1],
+  "CAS 30": [0, 1],
+  "velitelské automobily": [3],
+  "automobilové žebříky": [2],
+  "policejní automobily": [8],
+  "ta": [4],
+  "ambulance": [5],
+  "maximum pacientů": [5],
+  "ap nebo az": [10, 2],
+  "vozidla vyšetřovatelů dn": [18]
 }
