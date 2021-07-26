@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"missionId": "652", "missionName": "Aufgeplatzter Asphalt auf Autobahn", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "600"}
+=======
+{"missionId": "652", "missionName": "Aufgeplatzter Asphalt auf Autobahn", "requirements": [{"requirement": "streifenwagen", "qty": "2"}], "credits": "600"}
+>>>>>>> fefe49ca2f375702debb1e42a569f6b6bbd29696
