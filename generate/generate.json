@@ -85,7 +85,11 @@
     "ステーション",
     "な確率",
     "れる確",
-    "výjezdové stanoviště zzs"
+    "výjezdové stanoviště zzs",
+    "postes de secours",
+    "probabilité qu'un médecin soit",
+    "corpos de bombeiros necessários",
+    "esquadras de polícia necessárias"
   ],
   "replace": [
     "\n",
@@ -112,4 +116,3 @@
     "が必要"
   ]
 }
-
