@@ -1,0 +1,1 @@
+{"missionId": "250", "missionName": "기차 밑에 깔린 사람", "requirements": [{"requirement": "소방차", "qty": "4"}, {"requirement": "소방대장 차량", "qty": "4"}, {"requirement": "중장비 구조 차량", "qty": "2"}, {"requirement": "경찰차", "qty": "5"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "7000"}

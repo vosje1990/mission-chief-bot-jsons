@@ -1,0 +1,1 @@
+{"missionId": "123", "missionName": "열차에 치인 사람", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "2"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "3000"}
