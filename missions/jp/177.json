@@ -1,1 +1,1 @@
-{"missionId": "177", "missionName": "バス火災", "requirements": [{"requirement": "消防車", "qty": "3"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "", "qty": "12"}], "credits": "1500"}
+{"missionId": "177", "missionName": "バス火災", "requirements": [{"requirement": "消防車", "qty": "3"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "最大患者", "qty": "12"}], "credits": "1500"}
