@@ -1,1 +1,1 @@
-{"missionId": "609", "missionName": "Accelerants found near fire source", "requirements": [{"requirement": "fire marshal's offices", "qty": "1"}, {"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "2"}, {"requirement": "hazmat vehicles", "qty": "1"}], "credits": "2300"}
+{"missionId": "609", "missionName": "Accelerants found near fire source", "requirements": [{"requirement": "police cars", "qty": "2"}, {"requirement": "fire investigation units", "qty": "2"}, {"requirement": "hazmat vehicles", "qty": "1"}], "credits": "2300"}
