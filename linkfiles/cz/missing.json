@@ -1,9 +1,12 @@
 {
  "cas": [ 0, 1 ],
+ "CAS 20" : [0, 1],
+ "CAS 30" : [0, 1],
  "cisternová automobilová stříkačka": [ 0, 1 ],
  "cisternové automobilové stříkačky": [ 0, 1 ],
  "ap nebo az": [ 2, 10 ],
  "automobilové žebříky": [ 2, 10 ],
+ "ambulance": [5],
  "ta": [ 4 ],
  "technický automobil": [ 4 ],
  "technické automobily": [ 4 ],
