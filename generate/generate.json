@@ -88,10 +88,15 @@
     "れる確",
     "výjezdové stanoviště zzs",
     "postes de secours",
+    "poste de secours",
     "probabilité qu'un médecin soit",
+    "probabiltie",
+    "probabiltie qu'un médecin soit",
+    "probabiltie qu'un medecin soit",
     "corpos de bombeiros necessários",
     "esquadras de polícia necessárias",
-    "fire marshal's offices"
+    "fire marshal's offices",
+    "possibili estensioni ospedaliere"
   ],
   "replace": [
     "\n",
