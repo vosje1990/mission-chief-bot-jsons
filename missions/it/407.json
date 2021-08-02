@@ -1,1 +1,1 @@
-{"missionId": "407", "missionName": "Morso di Cane", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "700"}
+{"missionId": "407", "missionName": "Morso di Cane", "requirements": [{"requirement": "pattuglie", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "700"}

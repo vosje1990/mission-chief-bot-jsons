@@ -1,1 +1,1 @@
-{"missionId": "234", "missionName": "Assideramento", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "1"}
+{"missionId": "234", "missionName": "Assideramento", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}

@@ -1,1 +1,1 @@
-{"missionId": "374", "missionName": "Trauma cranico", "requirements": [{"requirement": "max pazienti", "qty": "2"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "450"}
+{"missionId": "374", "missionName": "Trauma cranico", "requirements": [{"requirement": "max pazienti", "qty": "2"}], "credits": "450"}

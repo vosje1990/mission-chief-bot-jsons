@@ -1,1 +1,1 @@
-{"missionId": "333", "missionName": "Blessé à domicile", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "25"}, {"requirement": "min. patients", "qty": "1"}], "credits": "0"}
+{"missionId": "333", "missionName": "Blessé à domicile", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "min. patients", "qty": "1"}], "credits": "0"}
