@@ -51,5 +51,7 @@
   "Veículos de Comando e Comunicações" : [10],
   "veículos de comando e comunicações necessários:" : [10],
   "veículo de comando e comunicações" : [10],
-  "veículo de comando tático" : [3]
-  }
+  "veículo de comando tático" : [3],
+  "veículos florestais": [21, 22, 24],
+  "meios aéreos": [25, 26, 27]
+ }

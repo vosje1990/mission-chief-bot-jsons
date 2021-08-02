@@ -1,1 +1,1 @@
-{"missionId": "292", "missionName": "Incêndio em Mato", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "8"}, {"requirement": "veículos de comando tático necessários:", "qty": "1"}], "credits": "4000"}
+{"missionId": "292", "missionName": "Incêndio em Mato", "requirements": [{"requirement": "veículos de comando tático necessários:", "qty": "1"}, {"requirement": "veículos tanque", "qty": "2" }, {"requirement": "veículos florestais", "qty": "4" }], "credits": "4000"}
