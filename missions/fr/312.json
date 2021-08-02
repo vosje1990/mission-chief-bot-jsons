@@ -1,1 +1,1 @@
-{"missionId": "312", "missionName": "Accouchement avec complications", "requirements": [{"requirement": "max. patients", "qty": "1"}, {"requirement": "probabilité qu'un médecin soit", "qty": "100"}], "credits": "3"}
+{"missionId": "312", "missionName": "Accouchement avec complications", "requirements": [{"requirement": "max. patients", "qty": "1"}], "credits": "3"}

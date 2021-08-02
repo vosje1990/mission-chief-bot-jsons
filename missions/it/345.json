@@ -1,1 +1,1 @@
-{"missionId": "345", "missionName": "Avvelenamento", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generale"}], "credits": "550"}
+{"missionId": "345", "missionName": "Avvelenamento", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "550"}

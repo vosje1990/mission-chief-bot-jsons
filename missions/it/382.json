@@ -1,1 +1,1 @@
-{"missionId": "382", "missionName": "Terapia dopo un tuffo", "requirements": [{"requirement": "max pazienti", "qty": "1"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generale"}], "credits": "1"}
+{"missionId": "382", "missionName": "Terapia dopo un tuffo", "requirements": [{"requirement": "max pazienti", "qty": "1"}], "credits": "1"}

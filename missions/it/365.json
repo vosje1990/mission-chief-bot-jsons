@@ -1,1 +1,1 @@
-{"missionId": "365", "missionName": "Incendio in camera divampato da una candela", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generale"}], "credits": "1500"}
+{"missionId": "365", "missionName": "Incendio in camera divampato da una candela", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "1500"}

@@ -1,1 +1,1 @@
-{"missionId": "371", "missionName": "Cattura Latitante", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "6"}, {"requirement": "possibili estensioni ospedaliere", "qty": "Medicina interna generaleTraumatologia"}], "credits": "5200"}
+{"missionId": "371", "missionName": "Cattura Latitante", "requirements": [{"requirement": "pattuglie", "qty": "6"}, {"requirement": "max pazienti", "qty": "6"}], "credits": "5200"}
