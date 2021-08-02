@@ -1,1 +1,1 @@
-{"missionId": "302", "missionName": "Operações de Vigilância e Prevenção", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "700"}
+{"missionId": "302", "missionName": "Operações de Vigilância e Prevenção", "requirements": [{"requirement": "veículos florestais", "qty": "2" }], "credits": "700"}

@@ -1,1 +1,1 @@
-{"missionId": "291", "missionName": "Pequeno Incêndio em Mato", "requirements": [{"requirement": "corpos de bombeiros necessários:", "qty": "3"}], "credits": "2000"}
+{"missionId": "291", "missionName": "Pequeno Incêndio em Mato", "requirements": [{"requirement": "veículos florestais", "qty": "3"},{ "requirement": "veículos tanque", "qty": "1" }], "credits": "2000"}
