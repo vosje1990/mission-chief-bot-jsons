@@ -56,5 +56,14 @@
   "veículo de comando tático": [3],
   "veículos florestais": [21, 22, 24],
   "meios aéreos": [25, 26, 27],
-  "heli inem" : [4]
+  "heli inem" : [4],
+  "veículos tanque tático urbano necessários" : [6],
+  "veículos de socorro e assistência tático necessários" : [4],
+  "veículos de comando tático necessários" : [3],
+  "veículos de proteção multiriscos e ambiente necessários" : [7],
+  "veículos de socorro e assistência tático" : [4],
+  "veículo de proteção multiriscos e ambiente" : [7],
+  "veículos tanque tático urbano necessários" : [6],
+  "veículos tanque tático urbano necessários:" :  [6]
+}
 }
