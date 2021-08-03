@@ -55,5 +55,6 @@
   "veículo de comando e comunicações": [10],
   "veículo de comando tático": [3],
   "veículos florestais": [21, 22, 24],
-  "meios aéreos": [25, 26, 27]
+  "meios aéreos": [25, 26, 27],
+  "heli inem" : [4]
 }
