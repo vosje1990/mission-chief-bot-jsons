@@ -103,7 +103,8 @@
     "estensioni",
     "ospedaliere",
     "Postes de secours",
-    "Postes"
+    "Postes",
+    "probabilité",
   ],
   "replace": [
     "\n",
