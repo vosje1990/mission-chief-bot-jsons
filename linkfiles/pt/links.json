@@ -50,6 +50,7 @@
 	"carros de patrulha necessários:": [8, 13],
 	"veículos de comando e comunicações necessários": [10],
 	"Veículos de Comando e Comunicações": [10],
+	"veículos de comando e comunicações": [10],
 	"veículos de comando e comunicações necessários:": [10],
 	"veículo de comando e comunicações": [10],
 	"veículo de comando tático": [3, 10],
@@ -64,7 +65,13 @@
 	"veículo de proteção multiriscos e ambiente": [7],
 	"veículos tanque tático urbano necessários:": [6],
 	"veículos de proteção multiriscos e ambiente necessários:" : [7],
+	"veículos de proteção multiriscos e ambiente" : [7],
 	"unidades autónomas de ar respirável necessárias:" : [15],
+	"uaar:" : [15],
 	"veículos de socorro e assistência especial necessários:" : [16],
-	"veículos de inativação de explosivos e segurança em subsolo" : [12]
+	"veículos de socorro e assistência especial" : [16],
+	"veículo de socorro e assistência especial" : [16],
+	"veículos de inativação de explosivos e segurança em subsolo" : [12],
+	"veículos de inativação de explosivos e segurança em subsolo necessários" : [12],
+	"veículos de inativação de explosivos e segurança em subsolo necessários:" : [12]
 }
