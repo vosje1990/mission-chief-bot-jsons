@@ -5,6 +5,7 @@
 "ambulances": [5],
 "armed response personnel": [13, 25],
 "armed response vehicle (ARV)": [13, 25],
+"armed response vehicle": [13, 25],
 "atv carrier": [30],
 "atv carriers": [30],
 "breathing apparatus support unit": [14],
