@@ -64,6 +64,8 @@
 	"veículo de comando tático": [3, 10],
 	"veículos florestais": [21, 22, 24],
 	"veículo florestais": [21, 22, 24],
+	"veículo florestal": [21, 22, 24],
+	"veículos florestal": [21, 22, 24],
 	"meios aéreos": [25, 26, 27],
 	"meio aéreos": [25, 26, 27],
 	"meio aéreo": [25, 26, 27],
@@ -89,5 +91,8 @@
 	"veículo de inativação de explosivos e segurança em subsolo" : [12],
 	"veículo de inativação de explosivos e segurança em subsolo necessários" : [12],
 	"veículo de inativação de explosivos e segurança em subsolo necessários:" : [12],
+	"14000 litros de água": [0, 1, 6, 11, 21, 22, 24, 25, 26, 27],
+	"60000 litros de água": [0, 1, 6, 11, 21, 22, 24, 25, 26, 27],
+	"litros de água": [0, 1, 6, 11, 24, 25, 26, 27],
 	"unidades autónomas de ar respirável necessárias" : [15]
 }
