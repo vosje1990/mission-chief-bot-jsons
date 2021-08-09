@@ -41,7 +41,10 @@
     "최대 환자",
     "필요한",
     "が必要",
-    "最大患者"
+    "最大患者",
+    "Veículos",
+    "Carros",
+    "Máx. de Pacientes"
   ],
   "exclude": [
     "Station",
@@ -113,7 +116,9 @@
     "probabilité",
     "Probabilité",
     "Probabilité qu'un",
-    "Probabilité qu'un médecin soit"
+    "Probabilité qu'un médecin soit",
+    "Esquadras",
+    "Estações",
   ],
   "replace": [
     "\n",
