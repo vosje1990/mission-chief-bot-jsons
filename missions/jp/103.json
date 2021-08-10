@@ -1,1 +1,1 @@
-{"missionId": "103", "missionName": "処分場の火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}], "credits": "3500"}
+{"missionId": "103", "missionName": "処分場の火災", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "ウォータータンカ", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}], "credits": "3500"}
