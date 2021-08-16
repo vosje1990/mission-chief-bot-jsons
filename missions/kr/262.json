@@ -1,1 +1,1 @@
-{"missionId": "262", "missionName": "오염된 토양 세척", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "생화학 차량", "qty": "1"}, {"requirement": "", "qty": "1"}], "credits": "1500"}
+{"missionId": "262", "missionName": "오염된 토양 세척", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "생화학 차량", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1500"}
