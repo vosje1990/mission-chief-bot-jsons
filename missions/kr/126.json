@@ -1,1 +1,1 @@
-{"missionId": "126", "missionName": "디스코텍 대규모 혼란", "requirements": [{"requirement": "경찰차", "qty": "9"}, {"requirement": "최대 환자", "qty": "17"}], "credits": "3500"}
+{"missionId": "126", "missionName": "디스코텍 소방차규모 혼란", "requirements": [{"requirement": "경찰차", "qty": "9"}, {"requirement": "구급차", "qty": "17"}], "credits": "3500"}

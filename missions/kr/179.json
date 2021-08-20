@@ -1,1 +1,1 @@
-{"missionId": "179", "missionName": "대형 농장 화재", "requirements": [{"requirement": "소방차", "qty": "9"}, {"requirement": "소방대장 차량", "qty": "2"}, {"requirement": "플랫폼 트럭", "qty": "3"}, {"requirement": "수상 탱커", "qty": "3"}], "credits": "9000"}
+{"missionId": "179", "missionName": "소방차형 농장 화재", "requirements": [{"requirement": "소방차", "qty": "9"}, {"requirement": "지휘차", "qty": "2"}, {"requirement": "고가 사다리(TL)", "qty": "3"}, {"requirement": "수상 탱커", "qty": "3"}], "credits": "9000"}
