@@ -1,1 +1,1 @@
-{"missionId": "119", "missionName": "알레르기 반응", "requirements": [{"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{"missionId": "119", "missionName": "알레르기 반응", "requirements": [{"requirement": "구급차", "qty": "1"}], "credits": "100"}
