@@ -1,1 +1,1 @@
-{"missionId": "548", "missionName": "Investigate area for fire", "requirements": [{"requirement": "warden trucks", "qty": "2"}], "credits": "500"}
+{"missionId": "548", "missionName": "Investigate area for fire", "requirements": [{"requirement": "wildland fire engine", "qty": "1"}, {"requirement": "fire investigation unit", "qty": "2"}], "credits": "500"}

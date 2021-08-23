@@ -1,1 +1,1 @@
-{"missionId": "414", "missionName": "Zalana klatka schodowa w bloku", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "sprzęt przeciwpowodziowy", "qty": "1"}], "credits": "1800"}
+{"missionId": "414", "missionName": "Zalana klatka schodowa w bloku", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "sprzęt przeciwpowodziowy", "qty": "1"}, {"requirement":"samochód pożarniczy", "qty": "1"}], "credits": "1800"}
