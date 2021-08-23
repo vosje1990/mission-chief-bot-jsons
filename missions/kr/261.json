@@ -1,1 +1,1 @@
-{"missionId": "261", "missionName": "유리로 인한 중상", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "100"}
+{"missionId": "261", "missionName": "유리로 인한 중상", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "100"}

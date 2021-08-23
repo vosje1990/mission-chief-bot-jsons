@@ -1,1 +1,1 @@
-{"missionId": "432", "missionName": "Duży pożar zboża na pniu", "requirements": [{"requirement": "wymagane samochody pożarnicze", "qty": "15"}, {"requirement": "wymagane slop lub slrr", "qty": "3"}, {"requirement": "wymagane cysterny z wodą", "qty": "1"}], "credits": "15500"}
+{"missionId": "432", "missionName": "Duży pożar zboża na pniu", "requirements": [{"requirement": "samochody pożarnicze", "qty": "15"}, {"requirement": "slop lub slrr", "qty": "3"}, {"requirement": "cysterny z wodą", "qty": "1"}], "credits": "15500"}

@@ -1,1 +1,1 @@
-{"missionId": "412", "missionName": "Zalana mała ulica", "requirements": [{"requirement": "sprzęt przeciwpowodziowy", "qty": "1"}], "credits": "1400"}
+{"missionId": "412", "missionName": "Zalana mała ulica", "requirements": [{"requirement": "samochody pożarnicze", "qty": "1"}, {"requirement": "sprzęt przeciwpowodziowy", "qty": "1"}], "credits": "1400"}

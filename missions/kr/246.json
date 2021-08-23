@@ -1,1 +1,1 @@
-{"missionId": "246", "missionName": "공격", "requirements": [{"requirement": "경찰차", "qty": "8"}, {"requirement": "최대 환자", "qty": "6"}], "credits": "6000"}
+{"missionId": "246", "missionName": "공격", "requirements": [{"requirement": "경찰차", "qty": "8"}, {"requirement": "구급차", "qty": "6"}], "credits": "6000"}

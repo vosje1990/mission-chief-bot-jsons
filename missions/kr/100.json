@@ -1,1 +1,1 @@
-{"missionId": "100", "missionName": "아동 실종", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "700"}
+{"missionId": "100", "missionName": "아동 실종", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "구급차", "qty": "1"}], "credits": "700"}
