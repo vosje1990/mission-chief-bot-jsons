@@ -1,1 +1,1 @@
-{"missionId": "183", "missionName": "버스 화재", "requirements": [{"requirement": "소방차", "qty": "3"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "구급차", "qty": "12"}], "credits": "1500"}
+{"missionId": "183", "missionName": "버스 화재", "requirements": [{"requirement": "소방차", "qty": "3"}, {"requirement": "지휘차", "qty": "1"}, {"requirement": "구급차", "qty": "12"}, {"requirement": "구급 지휘차", "qty": "1"}], "credits": "1500"}

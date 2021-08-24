@@ -1,1 +1,1 @@
-{"missionId": "226", "missionName": "工事車両事故", "requirements": [{"requirement": "消防車", "qty": "3"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "最大患者", "qty": "1"}], "credits": "950"}
+{"missionId": "226", "missionName": "工事車両事故", "requirements": [{"requirement": "消防車", "qty": "3"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "救急車", "qty": "1"}], "credits": "950"}

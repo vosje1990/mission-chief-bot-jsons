@@ -1,1 +1,1 @@
-{"missionId": "99", "missionName": "掘削現場救助", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "消防車", "qty": "3"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "最大患者", "qty": "4"}], "credits": "2500"}
+{"missionId": "99", "missionName": "掘削現場救助", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "消防車", "qty": "3"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "救急車", "qty": "4"}], "credits": "2500"}

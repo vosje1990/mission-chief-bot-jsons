@@ -1,1 +1,1 @@
-{"missionId": "42", "missionName": "人身落下", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{"missionId": "42", "missionName": "人身落下", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}

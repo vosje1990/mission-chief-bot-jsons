@@ -1,1 +1,1 @@
-{"missionId": "105", "missionName": "動物との衝突事故", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "最大患者", "qty": "4"}], "credits": "1200"}
+{"missionId": "105", "missionName": "動物との衝突事故", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "救急車", "qty": "4"}], "credits": "1200"}
