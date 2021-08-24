@@ -1,1 +1,1 @@
-{"missionId": "249", "missionName": "移動販売アイスクリームの汚染", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "最大患者", "qty": "4"}], "credits": "100"}
+{"missionId": "249", "missionName": "移動販売アイスクリームの汚染", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "救急車", "qty": "4"}], "credits": "100"}

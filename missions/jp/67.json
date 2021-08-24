@@ -1,1 +1,1 @@
-{"missionId": "67", "missionName": "暴力事件", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "最大患者", "qty": "3"}], "credits": "700"}
+{"missionId": "67", "missionName": "暴力事件", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "救急車", "qty": "3"}], "credits": "700"}

@@ -1,1 +1,1 @@
-{"missionId": "128", "missionName": "ディスコの大規模パニック", "requirements": [{"requirement": "警察車両", "qty": "9"}, {"requirement": "最大患者", "qty": "17"}], "credits": "3500"}
+{"missionId": "128", "missionName": "ディスコの大規模パニック", "requirements": [{"requirement": "警察車両", "qty": "9"}, {"requirement": "救急車", "qty": "17"}, {"requirement": "救急車指揮官", "qty": "1"}], "credits": "3500"}

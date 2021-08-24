@@ -1,1 +1,1 @@
-{"missionId": "251", "missionName": "崖から転落", "requirements": [{"requirement": "消防車", "qty": "9"}, {"requirement": "消防隊長車両", "qty": "2"}, {"requirement": "大型救助車両", "qty": "4"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "10"}], "credits": "9500"}
+{"missionId": "251", "missionName": "崖から転落", "requirements": [{"requirement": "消防車", "qty": "9"}, {"requirement": "指令ユニット", "qty": "2"}, {"requirement": "大型救助車両", "qty": "4"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "救急車", "qty": "1"}, {"requirement": "救急車指揮官", "qty": "1"}], "credits": "9500"}

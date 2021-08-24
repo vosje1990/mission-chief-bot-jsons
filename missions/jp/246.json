@@ -1,1 +1,1 @@
-{"missionId": "246", "missionName": "列車の下に人", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "消防隊長車両", "qty": "4"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "警察車両", "qty": "5"}, {"requirement": "最大患者", "qty": "1"}], "credits": "7000"}
+{"missionId": "246", "missionName": "列車の下に人", "requirements": [{"requirement": "消防車", "qty": "4"}, {"requirement": "指令ユニット", "qty": "4"}, {"requirement": "大型救助車両", "qty": "2"}, {"requirement": "警察車両", "qty": "5"}, {"requirement": "救急車", "qty": "1"}], "credits": "7000"}

@@ -1,1 +1,1 @@
-{"missionId": "117", "missionName": "ホテル部分焼", "requirements": [{"requirement": "消防車", "qty": "6"}, {"requirement": "消防隊長車両", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "最大患者", "qty": "10"}], "credits": "5000"}
+{"missionId": "117", "missionName": "ホテル部分焼", "requirements": [{"requirement": "消防車", "qty": "6"}, {"requirement": "指令ユニット", "qty": "1"}, {"requirement": "プラットフォームトラック", "qty": "1"}, {"requirement": "救急車指揮官", "qty": "1"}, {"requirement": "救急車", "qty": "10"}], "credits": "5000"}

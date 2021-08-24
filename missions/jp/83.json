@@ -1,1 +1,1 @@
-{"missionId": "83", "missionName": "燃えるワラの山", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "ウォータータンカ", "qty": "1"}, {"requirement": "消防隊長車両", "qty": "1"}], "credits": "1500"}
+{"missionId": "83", "missionName": "燃えるワラの山", "requirements": [{"requirement": "消防車", "qty": "5"}, {"requirement": "ウォータータンカ", "qty": "1"}, {"requirement": "指令ユニット", "qty": "1"}], "credits": "1500"}

@@ -1,1 +1,1 @@
-{"missionId": "233", "missionName": "外傷性四肢切断", "requirements": [{"requirement": "最大患者", "qty": "1"}], "credits": "100"}
+{"missionId": "233", "missionName": "外傷性四肢切断", "requirements": [{"requirement": "救急車", "qty": "1"}], "credits": "100"}
