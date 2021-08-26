@@ -5,8 +5,9 @@ APPLY_FIXES: all # all, none, or list of linter keys
 DEFAULT_BRANCH: main # Usually master or main
 ENABLE:
   - JSON
-DISABLE:
-  - COPYPASTE # Comment to disable checks of abusive copy-pastes
-  - SPELL
+DISABLE_LINTERS:
+  - JSON_V8R 
+  - JSON_JSONLINT
+  - JSON_ESLINT_PLUGIN_JSONC
 SHOW_ELAPSED_TIME: true
 FILEIO_REPORTER: false
