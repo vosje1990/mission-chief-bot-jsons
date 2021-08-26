@@ -2,6 +2,7 @@
 # See all available variables at https://nvuillam.github.io/mega-linter/configuration/ and in linters documentation
 
 APPLY_FIXES: all # all, none, or list of linter keys
+APPLY_FIXES_MODE : 'pull_request'
 DEFAULT_BRANCH: main # Usually master or main
 ENABLE:
   - JSON
