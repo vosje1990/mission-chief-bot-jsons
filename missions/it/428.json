@@ -1,0 +1,1 @@
+{"missionId": "428", "missionName": "Trattamento Sanitario Obbligatorio", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "autoscale", "qty": "1"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1600"}
