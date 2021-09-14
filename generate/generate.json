@@ -130,7 +130,11 @@
     "Benodigde Aantal",
     "Waterreddingsposten",
     "waterreddingsposten",
-    "Parques"
+    "Parques",
+    "Estaciones de rescate",
+    "estaciones de rescate",
+    "Ampliaciones de apoyo en incendios",
+    "ampliaciones de apoyo en incendios"
   ],
   "replace": [
     "\n",
