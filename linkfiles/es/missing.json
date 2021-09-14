@@ -16,5 +16,9 @@
     "Unidad Antidisturbios" : [14],
     "Moto de Policía" : [17],
     "Camión TPP" : [7],
-    "Camión BNP" : [6]
+    "Camión BNP" : [6],
+    "Vehículos de extinción por espuma": [23],
+    "vehículos de extinción por espuma": [23],
+    "Bombas accionadas por motor": [24],
+    "bombas accionadas por motor": [24]
 }
