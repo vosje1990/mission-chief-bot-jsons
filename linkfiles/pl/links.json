@@ -93,5 +93,8 @@
  "samochód wężowy": [61, 62, 64],
  "samochody wężowe": [61, 62, 64],
  "sw": [61, 62, 64],
- "samochody ze zbiornikiem na piane": [55, 56, 60, 44]
+ "samochody ze zbiornikiem na piane": [55, 56, 60, 44, 57, 58, 59],
+ "łodzie": [21, 22, 26],
+ "łodzi": [21, 22, 26],
+ "łódź": [21, 22, 26]
 }
