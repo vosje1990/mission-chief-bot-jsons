@@ -1,0 +1,1 @@
+{"missionId": "446", "missionName": "Incidente per l'attraversamento di un cervo", "requirements": [{"requirement": "aps/abp", "qty": "2"}, {"requirement": "pattuglie", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "max pazienti", "qty": "1"}], "credits": "1000"}

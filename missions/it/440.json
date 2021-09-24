@@ -1,0 +1,1 @@
+{"missionId": "440", "missionName": "Incidente stradale causato dalle foglie cadute", "requirements": [{"requirement": "aps/abp", "qty": "1"}, {"requirement": "unità polisoccorso", "qty": "1"}, {"requirement": "pattuglie", "qty": "2"}, {"requirement": "max pazienti", "qty": "3"}], "credits": "1000"}

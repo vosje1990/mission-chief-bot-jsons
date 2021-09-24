@@ -1,0 +1,1 @@
+{"missionId": "270", "missionName": "落ち葉による交通事故", "requirements": [{"requirement": "消防車", "qty": "1"}, {"requirement": "大型救助車両", "qty": "1"}, {"requirement": "警察車両", "qty": "2"}, {"requirement": "最大患者", "qty": "3"}], "credits": "1000"}
