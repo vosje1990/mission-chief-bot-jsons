@@ -98,5 +98,7 @@
 	"16800 litros de água" : [0, 1, 6, 11, 21, 22, 24, 25, 26, 27],
 	"litros de água": [0, 1, 6, 11, 24, 25, 26, 27],
 	"unidades autónomas de ar respirável necessárias" : [15],
-	"esquadras de polícia necessárias:" : [8, 13]
+	"esquadras de polícia necessárias:" : [8, 13],
+	"vehicle equipa de reconhecimento e avaliação da situação" : [21],
+	"equipa de reconhecimento e avaliação da situação" : [21]
 }
