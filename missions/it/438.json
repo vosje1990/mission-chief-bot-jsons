@@ -1,0 +1,1 @@
+{"missionId": "438", "missionName": "Autocisterna Ribaltata", "requirements": [{"requirement": "aps/abp", "qty": "4"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "funzionari", "qty": "1"}, {"requirement": "nbcr", "qty": "2"}, {"requirement": "pattuglie", "qty": "4"}, {"requirement": "max pazienti", "qty": "2"}], "credits": "6000"}
