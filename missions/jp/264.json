@@ -1,1 +1,1 @@
-{"missionId": "264", "missionName": "コンサートでの暴動", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "最大患者", "qty": "30"}], "credits": "1150"}
+{"missionId": "264", "missionName": "コンサートでの暴動", "requirements": [{"requirement": "警察車両", "qty": "3"}, {"requirement": "救急車", "qty": "30"}], "credits": "1150"}
