@@ -1,1 +1,1 @@
-{"missionId": "274", "missionName": "낙엽으로 인한 교통사고", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "2"}, {"requirement": "최대 환자", "qty": "3"}], "credits": "1000"}
+{"missionId": "274", "missionName": "낙엽으로 인한 교통사고", "requirements": [{"requirement": "소방차", "qty": "1"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "경찰차", "qty": "2"}, {"requirement": "구급차", "qty": "3"}], "credits": "1000"}

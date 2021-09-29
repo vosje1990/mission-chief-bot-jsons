@@ -1,1 +1,1 @@
-{"missionId": "276", "missionName": "낙엽 청소기 제어 불능", "requirements": [{"requirement": "경찰차", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "400"}
+{"missionId": "276", "missionName": "낙엽 청소기 제어 불능", "requirements": [{"requirement": "경찰차", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "400"}

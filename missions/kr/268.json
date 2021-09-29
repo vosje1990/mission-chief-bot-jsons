@@ -1,1 +1,1 @@
-{"missionId": "268", "missionName": "콘서트장 폭동", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "최대 환자", "qty": "30"}], "credits": "1150"}
+{"missionId": "268", "missionName": "콘서트장 폭동", "requirements": [{"requirement": "경찰차", "qty": "3"}, {"requirement": "구급차", "qty": "30"}], "credits": "1150"}

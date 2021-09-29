@@ -1,1 +1,1 @@
-{"missionId": "271", "missionName": "침실 화재", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "이동식 호흡 장비", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "1200"}
+{"missionId": "271", "missionName": "침실 화재", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "이동식 호흡 장비", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1200"}

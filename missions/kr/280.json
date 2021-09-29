@@ -1,1 +1,1 @@
-{"missionId": "280", "missionName": "사슴 횡단 사고", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "경찰차", "qty": "1"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "1000"}
+{"missionId": "280", "missionName": "사슴 횡단 사고", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "경찰차", "qty": "1"}, {"requirement": "중장비 구조 차량", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1000"}
