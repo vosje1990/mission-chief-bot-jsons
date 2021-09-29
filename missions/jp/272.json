@@ -1,1 +1,1 @@
-{"missionId": "272", "missionName": "落ち葉用掃除機の暴走", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "最大患者", "qty": "1"}], "credits": "400"}
+{"missionId": "272", "missionName": "落ち葉用掃除機の暴走", "requirements": [{"requirement": "警察車両", "qty": "1"}, {"requirement": "救急車", "qty": "1"}], "credits": "400"}
