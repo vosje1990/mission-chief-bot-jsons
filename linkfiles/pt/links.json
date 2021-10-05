@@ -100,5 +100,9 @@
 	"unidades autónomas de ar respirável necessárias" : [15],
 	"esquadras de polícia necessárias:" : [8, 13],
 	"vehicle equipa de reconhecimento e avaliação da situação" : [21],
-	"equipa de reconhecimento e avaliação da situação" : [21]
+	"equipa de reconhecimento e avaliação da situação" : [21],
+	"moto pompa": [29],
+	"moto pompa:": [29],
+	"moto pompa necessários": [29],
+	"moto pompa necessários:": [29]
 }
