@@ -1,1 +1,1 @@
-{"missionId": "254", "missionName": "502 Bad Gateway", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "900"}
+{"missionId": "254", "missionName": "Wiedźma w drzewie", "requirements": [{"requirement": "maks. pacjenci", "qty": 1},{"requirement": "sh lub sd", "qty": 1},{"requirement": "samochody pożarnicze", "qty": 1}], "credits": "900"}
