@@ -1,1 +1,1 @@
-{"missionId": "152", "missionName": "너무 오래 익힌 호박 수프", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "이동식 호흡 장비", "qty": "1"}, {"requirement": "최대 환자", "qty": "1"}], "credits": "1500"}
+{"missionId": "152", "missionName": "너무 오래 익힌 호박 수프", "requirements": [{"requirement": "소방차", "qty": "2"}, {"requirement": "소방대장 차량", "qty": "1"}, {"requirement": "이동식 호흡 장비", "qty": "1"}, {"requirement": "구급차", "qty": "1"}], "credits": "1500"}
