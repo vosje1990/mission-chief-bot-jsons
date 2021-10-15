@@ -39,5 +39,8 @@
 	"tankbilar" : [6],
 	"Terrängbil" : [21],
 	"Terrängbil 1" : [21],
-	"Tryckkammarbil" : [19]
+	"Tryckkammarbil" : [19],
+	"motorspruta" : [36, 38],
+	"skumenhet": [37],
+	"slangbil": [35,36]
 }
