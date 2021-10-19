@@ -60,6 +60,7 @@
  "firetruck": [0, 1, 33, 13, 18, 30],
  "firetrucks": [0, 1, 33, 13, 18, 30],
  "fly car": [15],
+ "foam": [0, 1, 13, 18, 30, 33, 64, 65],
  "forestry expansion": [30, 31, 32, 38, 39],
  "forestry expansions": [30, 31, 32, 38, 39],
  "hazmat vehicle": [9, 50],
