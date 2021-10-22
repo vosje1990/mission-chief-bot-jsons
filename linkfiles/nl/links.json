@@ -34,5 +34,6 @@
     "at materiaalwagens": [55],
     "ambulance": [16],
     "verkenningseenheid": [11],
-    "verkenningseenheden":[11]
+    "verkenningseenheden":[11],
+    "schuimblusvoertuig": [41, 42, 43, 68, 69, 70]
 }
