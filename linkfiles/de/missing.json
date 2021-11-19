@@ -110,6 +110,7 @@
 "streifenwagen" : [32],
 "fustw" : [32],
 "funkstreifenwagen (dienstgruppenleitung)": [103],
+"funkstreifenwagen": [103],
 "tauchkraftwagen" : [69],
 "teleskopmasten" : [85],
 "teleskopmast" : [85],
