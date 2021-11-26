@@ -1,0 +1,1 @@
+{"missionId": "288", "missionName": "Gonfiaggio dei palloncini per la festa di anniversario", "requirements": [{"requirement": "aps/abp", "qty": "3"}, {"requirement": "unità polisoccorso", "qty": "2"}, {"requirement": "autoscale", "qty": "2"}], "credits": "15000"}
