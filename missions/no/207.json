@@ -1,0 +1,1 @@
+{"missionId": "207", "missionName": "Trafikkstopp (Uaktsom kjøring)", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}
