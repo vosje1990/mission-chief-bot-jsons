@@ -1,1 +1,1 @@
-{"missionId": "271", "missionName": "Leilighetsbrann i høyblokk", "requirements": [{"requirement": "ambulansestasjoner", "qty": "6"}, {"requirement": "brannbiler", "qty": "10"}, {"requirement": "innsatsledere fra brann", "qty": "4"}], "credits": "1500"}
+{"missionId": "271", "missionName": "Leilighetsbrann i høyblokk", "requirements": [{"requirement": "brannbiler", "qty": "10"}, {"requirement": "innsatsledere fra brann", "qty": "4"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "20"}], "credits": "1500"}

@@ -1,1 +1,1 @@
-{"missionId": "329", "missionName": "Liten Skogbrann Opprydding", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "700"}
+{"missionId": "329", "missionName": "Liten Skogbrann Opprydding", "requirements": [{"requirement": "skogbrann kjøretøy", "qty": "2"}], "credits": "700"}

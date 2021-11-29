@@ -1,1 +1,1 @@
-{"missionId": "97", "missionName": "Personskade på høyspentmast", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}], "credits": "650"}
+{"missionId": "97", "missionName": "Personskade på høyspentmast", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "650"}

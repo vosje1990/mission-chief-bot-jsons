@@ -1,1 +1,1 @@
-{"missionId": "324", "missionName": "Stor Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "5"}, {"requirement": "tankbiler", "qty": "3"}], "credits": "8000"}
+{"missionId": "324", "missionName": "Stor Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "5"}, {"requirement": "tankbiler", "qty": "3"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "8"}], "credits": "8000"}

@@ -1,1 +1,1 @@
-{"missionId": "290", "missionName": "Panikkanfall", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "250"}
+{"missionId": "290", "missionName": "Panikkanfall", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "250"}

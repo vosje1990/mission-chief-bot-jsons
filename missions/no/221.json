@@ -1,1 +1,1 @@
-{"missionId": "221", "missionName": "Elektrisk støt", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "221", "missionName": "Elektrisk støt", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

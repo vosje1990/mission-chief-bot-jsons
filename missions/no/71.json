@@ -1,1 +1,1 @@
-{"missionId": "71", "missionName": "Neseblødning", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "71", "missionName": "Neseblødning", "requirements": [{"requirement": "maks pasienter", "qty": "2"}], "credits": "100"}

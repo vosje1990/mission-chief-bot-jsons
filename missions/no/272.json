@@ -1,1 +1,1 @@
-{"missionId": "272", "missionName": "Veltet varebil", "requirements": [{"requirement": "ambulansestasjoner", "qty": "2"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}], "credits": "100"}
+{"missionId": "272", "missionName": "Veltet varebil", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "100"}

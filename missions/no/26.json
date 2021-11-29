@@ -1,1 +1,1 @@
-{"missionId": "26", "missionName": "Liten brann i matvarebutikk", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "1500"}
+{"missionId": "26", "missionName": "Liten brann i matvarebutikk", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "1500"}

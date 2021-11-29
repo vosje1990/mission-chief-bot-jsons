@@ -1,1 +1,1 @@
-{"missionId": "159", "missionName": "Ødelagt trafikklys", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "250"}
+{"missionId": "159", "missionName": "Ødelagt trafikklys", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "250"}

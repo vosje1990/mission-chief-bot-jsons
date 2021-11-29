@@ -1,1 +1,1 @@
-{"missionId": "170", "missionName": "Massepanikk på diskotek", "requirements": [{"requirement": "politistasjoner", "qty": "9"}, {"requirement": "ambulansestasjoner", "qty": "10"}, {"requirement": "politibiler", "qty": "9"}], "credits": "3500"}
+{"missionId": "170", "missionName": "Massepanikk på diskotek", "requirements": [{"requirement": "politibiler", "qty": "9"}, {"requirement": "maks pasienter", "qty": "17"}], "credits": "3500"}

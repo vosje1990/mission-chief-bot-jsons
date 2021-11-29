@@ -1,1 +1,1 @@
-{"missionId": "343", "missionName": "Opprydding av forurenset jord", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "1"}], "credits": "1500"}
+{"missionId": "343", "missionName": "Opprydding av forurenset jord", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "cbrne enheter", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1500"}

@@ -1,1 +1,1 @@
-{"missionId": "48", "missionName": "Innbrudd", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "150"}
+{"missionId": "48", "missionName": "Innbrudd", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "150"}

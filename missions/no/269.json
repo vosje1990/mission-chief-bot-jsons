@@ -1,1 +1,1 @@
-{"missionId": "269", "missionName": "Syklist falt på sti", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "269", "missionName": "Syklist falt på sti", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

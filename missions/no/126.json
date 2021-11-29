@@ -1,1 +1,1 @@
-{"missionId": "126", "missionName": "VIP oppdrag", "requirements": [{"requirement": "politistasjoner", "qty": "15"}, {"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "2"}], "credits": "4000"}
+{"missionId": "126", "missionName": "VIP oppdrag", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "hundepatruljer", "qty": "2"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "4000"}

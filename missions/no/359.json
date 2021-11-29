@@ -1,1 +1,1 @@
-{"missionId": "359", "missionName": "Overdose", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "1100"}
+{"missionId": "359", "missionName": "Overdose", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "1100"}

@@ -1,1 +1,1 @@
-{"missionId": "122", "missionName": "Mellomstor demonstrasjon", "requirements": [{"requirement": "politistasjoner", "qty": "7"}, {"requirement": "ambulansestasjoner", "qty": "3"}, {"requirement": "politibiler", "qty": "7"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "3000"}
+{"missionId": "122", "missionName": "Mellomstor demonstrasjon", "requirements": [{"requirement": "politibiler", "qty": "7"}, {"requirement": "hundepatruljer", "qty": "1"}, {"requirement": "politihelikoptere", "qty": "1"}, {"requirement": "maks pasienter", "qty": "5"}], "credits": "3000"}

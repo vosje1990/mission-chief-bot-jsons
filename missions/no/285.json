@@ -1,1 +1,1 @@
-{"missionId": "285", "missionName": "Gullsmedran", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}], "credits": "800"}
+{"missionId": "285", "missionName": "Gullsmedran", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "800"}

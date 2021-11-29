@@ -1,1 +1,1 @@
-{"missionId": "187", "missionName": "Person fastklemt under tre", "requirements": [{"requirement": "ambulansestasjoner", "qty": "5"}, {"requirement": "brannbiler", "qty": "1"}], "credits": "1000"}
+{"missionId": "187", "missionName": "Person fastklemt under tre", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "120", "missionName": "Ransakelse av kjøretøy", "requirements": [{"requirement": "politistasjoner", "qty": "6"}, {"requirement": "politibiler", "qty": "2"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "1000"}
+{"missionId": "120", "missionName": "Ransakelse av kjøretøy", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "hundepatruljer", "qty": "1"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "324-0", "missionName": "Stor Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "5"}, {"requirement": "tankbiler", "qty": "3"}], "credits": "9000"}
+{"missionId": "324-0", "missionName": "Stor Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "5"}, {"requirement": "tankbiler", "qty": "3"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "tilhengerpumper", "qty": "1"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "8"}], "credits": "9000"}

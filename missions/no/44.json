@@ -1,1 +1,1 @@
-{"missionId": "44", "missionName": "Butikktyveri", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "100"}
+{"missionId": "44", "missionName": "Butikktyveri", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "100"}

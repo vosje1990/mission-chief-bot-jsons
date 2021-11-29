@@ -1,1 +1,1 @@
-{"missionId": "208", "missionName": "Promillekontroll", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1000"}
+{"missionId": "208", "missionName": "Promillekontroll", "requirements": [ {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1000"}

@@ -1,1 +1,1 @@
-{"missionId": "326", "missionName": "Lynnedslag i Skog", "requirements": [{"requirement": "ambulance", "qty": 1}], "credits": "700"}
+{"missionId": "326", "missionName": "Lynnedslag i Skog", "requirements": [{"requirement": "skogbrann kjøretøy", "qty": "2"}], "credits": "700"}

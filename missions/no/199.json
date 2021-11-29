@@ -1,1 +1,1 @@
-{"missionId": "199", "missionName": "Uhell med motorsag", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "400"}
+{"missionId": "199", "missionName": "Uhell med motorsag", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "400"}

@@ -1,1 +1,1 @@
-{"missionId": "167", "missionName": "Bilbrann i tunnel", "requirements": [{"requirement": "ambulansestasjoner", "qty": "2"}, {"requirement": "for skum", "qty": "200"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "1500"}
+{"missionId": "167", "missionName": "Bilbrann i tunnel", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "1500"}

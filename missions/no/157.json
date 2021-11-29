@@ -1,1 +1,1 @@
-{"missionId": "157", "missionName": "Hotellbrann (liten)", "requirements": [{"requirement": "ambulansestasjoner", "qty": "4"}, {"requirement": "brannbiler", "qty": "4"}], "credits": "3000"}
+{"missionId": "157", "missionName": "Hotellbrann (liten)", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "maks pasienter", "qty": "6"}], "credits": "3000"}

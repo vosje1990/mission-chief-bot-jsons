@@ -1,1 +1,1 @@
-{"missionId": "132", "missionName": "Barn forsvunnet", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}], "credits": "700"}
+{"missionId": "132", "missionName": "Barn forsvunnet", "requirements": [ {"requirement": "politibiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "700"}

@@ -1,1 +1,1 @@
-{"missionId": "182", "missionName": "Dykkerulykke", "requirements": [{"requirement": "for vannredningsbygning", "qty": "1"}, {"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "for lett redningsbåt", "qty": "1"}, {"requirement": "for dykkerbil", "qty": "1"}], "credits": "1000"}
+{"missionId": "182", "missionName": "Dykkerulykke", "requirements": [{"requirement": "for lett redningsbåt", "qty": "1"}, {"requirement": "for dykkerbil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1000"}

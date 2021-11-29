@@ -1,1 +1,1 @@
-{"missionId": "174", "missionName": "Liten brann på fabrikk", "requirements": [{"requirement": "ambulansestasjoner", "qty": "2"}, {"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "2"}], "credits": "2000"}
+{"missionId": "174", "missionName": "Liten brann på fabrikk", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "maks pasienter", "qty": "3"}], "credits": "2000"}

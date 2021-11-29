@@ -1,1 +1,1 @@
-{"missionId": "85", "missionName": "Ryggmargskade", "requirements": [{"requirement": "ambulansestasjoner", "qty": "2"}], "credits": "100"}
+{"missionId": "85", "missionName": "Ryggmargskade", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

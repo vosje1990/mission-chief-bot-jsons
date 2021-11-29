@@ -1,1 +1,1 @@
-{"missionId": "286", "missionName": "Skadet friløper", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}], "credits": "100"}
+{"missionId": "286", "missionName": "Skadet friløper", "requirements": [{"requirement": "brannbiler", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

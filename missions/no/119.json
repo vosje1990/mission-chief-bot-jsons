@@ -1,1 +1,1 @@
-{"missionId": "119", "missionName": "Politibetjent nede", "requirements": [{"requirement": "politistasjoner", "qty": "6"}, {"requirement": "politibiler", "qty": "6"}], "credits": "1500"}
+{"missionId": "119", "missionName": "Politibetjent nede", "requirements": [{"requirement": "politibiler", "qty": "6"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1500"}

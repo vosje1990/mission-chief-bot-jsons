@@ -1,1 +1,1 @@
-{"missionId": "288", "missionName": "Observasjon av en mistenkt", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}], "credits": "6000"}
+{"missionId": "288", "missionName": "Observasjon av en mistenkt", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "6000"}

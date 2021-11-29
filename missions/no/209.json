@@ -1,1 +1,1 @@
-{"missionId": "209", "missionName": "Laserkontroll", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}], "credits": "2000"}
+{"missionId": "209", "missionName": "Laserkontroll", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "2000"}

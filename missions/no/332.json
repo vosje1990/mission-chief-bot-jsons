@@ -1,1 +1,1 @@
-{"missionId": "332", "missionName": "Enorm Skogbrann Opprydding", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}], "credits": "9500"}
+{"missionId": "332", "missionName": "Enorm Skogbrann Opprydding", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "innsatsstøttebil", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "10"}], "credits": "9500"}

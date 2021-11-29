@@ -1,1 +1,1 @@
-{"missionId": "320-0", "missionName": "Stor Lyngbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "4"}], "credits": "7500"}
+{"missionId": "320-0", "missionName": "Stor Lyngbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "4"}, {"requirement": "slangebiler", "qty": "1"}, {"requirement": "tilhengerpumper", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "6"}, {"requirement": "skogbrann kjøretøy", "qty": "8"}], "credits": "7500"}

@@ -1,1 +1,1 @@
-{"missionId": "64", "missionName": "Ulykke med buss", "requirements": [{"requirement": "ambulansestasjoner", "qty": "8"}, {"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}], "credits": "1000"}
+{"missionId": "64", "missionName": "Ulykke med buss", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "12"}], "credits": "1000"}

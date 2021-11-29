@@ -1,1 +1,1 @@
-{"missionId": "220", "missionName": "Mistenkelig person", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "300"}
+{"missionId": "220", "missionName": "Mistenkelig person", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "300"}

@@ -1,1 +1,1 @@
-{"missionId": "89", "missionName": "Hodeskade", "requirements": [{"requirement": "ambulansestasjoner", "qty": "3"}], "credits": "100"}
+{"missionId": "89", "missionName": "Hodeskade", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

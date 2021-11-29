@@ -1,1 +1,1 @@
-{"missionId": "124", "missionName": "Bensinstasjonsran", "requirements": [{"requirement": "politistasjoner", "qty": "8"}, {"requirement": "politibiler", "qty": "4"}], "credits": "1250"}
+{"missionId": "124", "missionName": "Bensinstasjonsran", "requirements": [{"requirement": "politibiler", "qty": "4"}, {"requirement": "politihelikoptere", "qty": "1"}], "credits": "1250"}

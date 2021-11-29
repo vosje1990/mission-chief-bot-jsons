@@ -1,1 +1,1 @@
-{"missionId": "185", "missionName": "Person i vann", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "for vannredningsbygning", "qty": "1"}, {"requirement": "for lett redningsbåt", "qty": "1"}], "credits": "1200"}
+{"missionId": "185", "missionName": "Person i vann", "requirements": [{"requirement": "for lett redningsbåt", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "1200"}

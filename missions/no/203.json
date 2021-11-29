@@ -1,1 +1,1 @@
-{"missionId": "203", "missionName": "Bil i grøften", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1200"}
+{"missionId": "203", "missionName": "Bil i grøften", "requirements": [ {"requirement": "brannbiler", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}], "credits": "1200"}

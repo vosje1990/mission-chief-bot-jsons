@@ -1,1 +1,1 @@
-{"missionId": "204", "missionName": "Trafikkstopp (Ingen forsikring)", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}
+{"missionId": "204", "missionName": "Trafikkstopp (Ingen forsikring)", "requirements": [ {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}

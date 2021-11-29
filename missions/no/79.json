@@ -1,1 +1,1 @@
-{"missionId": "79", "missionName": "Pustestopp", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "79", "missionName": "Pustestopp", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

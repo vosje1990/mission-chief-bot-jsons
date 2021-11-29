@@ -1,1 +1,1 @@
-{"missionId": "322", "missionName": "Liten skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}], "credits": "2000"}
+{"missionId": "322", "missionName": "Liten skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "3"}], "credits": "2000"}

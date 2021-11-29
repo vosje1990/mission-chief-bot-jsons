@@ -1,1 +1,1 @@
-{"missionId": "133", "missionName": "Deponibrann", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}], "credits": "3500"}
+{"missionId": "133", "missionName": "Deponibrann", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tankbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}], "credits": "3500"}

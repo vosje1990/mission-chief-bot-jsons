@@ -1,1 +1,1 @@
-{"missionId": "298", "missionName": "Respirasjonsstans", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "298", "missionName": "Respirasjonsstans", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

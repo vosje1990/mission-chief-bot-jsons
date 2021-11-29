@@ -1,1 +1,1 @@
-{"missionId": "135", "missionName": "Bilulykke med dyr", "requirements": [{"requirement": "politistasjoner", "qty": "3"}, {"requirement": "ambulansestasjoner", "qty": "3"}, {"requirement": "politibiler", "qty": "1"}], "credits": "1200"}
+{"missionId": "135", "missionName": "Bilulykke med dyr", "requirements": [{"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "1200"}

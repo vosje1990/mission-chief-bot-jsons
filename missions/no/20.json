@@ -1,1 +1,1 @@
-{"missionId": "20", "missionName": "Kjellerbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "3"}], "credits": "2500"}
+{"missionId": "20", "missionName": "Kjellerbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "2"}], "credits": "2500"}

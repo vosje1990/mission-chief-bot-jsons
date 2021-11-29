@@ -1,1 +1,1 @@
-{"missionId": "206", "missionName": "Trafikkstopp (Ikke EU godkjent)", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}
+{"missionId": "206", "missionName": "Trafikkstopp (Ikke EU godkjent)", "requirements": [ {"requirement": "for utrykningspolitibil", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "700"}

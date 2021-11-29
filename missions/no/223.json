@@ -1,1 +1,1 @@
-{"missionId": "223", "missionName": "Diabetes", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "223", "missionName": "Diabetes", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

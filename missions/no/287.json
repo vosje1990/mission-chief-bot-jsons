@@ -1,1 +1,1 @@
-{"missionId": "287", "missionName": "Glasskår i hånd", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "287", "missionName": "Glasskår i hånd", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

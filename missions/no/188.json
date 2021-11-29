@@ -1,1 +1,1 @@
-{"missionId": "188", "missionName": "Konsert", "requirements": [{"requirement": "politistasjoner", "qty": "5"}, {"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "brannbiler", "qty": "2"}, {"requirement": "ambulanser", "qty": "1"}, {"requirement": "politibiler", "qty": "7"}], "credits": "7000"}
+{"missionId": "188", "missionName": "Konsert", "requirements": [{"requirement": "brannbiler", "qty": "2"}, {"requirement": "ambulanser", "qty": "1"}, {"requirement": "politibiler", "qty": "7"}], "credits": "7000"}

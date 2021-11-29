@@ -1,1 +1,1 @@
-{"missionId": "96", "missionName": "Silobrann", "requirements": [{"requirement": "for skum", "qty": "1000"}, {"requirement": "brannbiler", "qty": "8"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "2"}], "credits": "3000"}
+{"missionId": "96", "missionName": "Silobrann", "requirements": [{"requirement": "brannbiler", "qty": "8"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "stigebil", "qty": "1"}], "credits": "3000"}

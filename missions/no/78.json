@@ -1,1 +1,1 @@
-{"missionId": "78", "missionName": "Hjertestans", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "78", "missionName": "Hjertestans", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

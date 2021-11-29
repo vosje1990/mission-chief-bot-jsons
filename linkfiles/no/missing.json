@@ -1,3 +1,25 @@
 {
-
+  "brannbiler": [0, 1, 10, 18, 21],
+  "innsatsledere fra brann": [3],
+  "tungredningsbiler": [4, 18],
+  "cbrne enheter": [7],
+  "politibiler": [8, 14],
+  "hundepatruljer": [13],
+  "tankbiler": [6, 21, 35],
+  "røykdykkere": [16],
+  "for lett redningsbåt": [20],
+  "for dykkerbil": [19],
+  "for Utrykningspolitibil": [22, 23],
+  "ambulanser": [5, 31],
+  "maks pasienter": [5, 31],
+  "ambulance": [5, 31],
+  "for innsatslederbil helse": [25],
+  "for skogbrann helikopter": [33],
+  "skogbrann kjøretøy": [34],
+  "stigebil": [2],
+  "slangebiler": [37, 38, 39],
+  "skum tankbiler": [35],
+  "tilhengerpumper": [36],
+  "politihelikoptere": [11],
+  "innsatsstøttebil": [17]
 }

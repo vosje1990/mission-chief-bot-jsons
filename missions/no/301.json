@@ -1,1 +1,1 @@
-{"missionId": "301", "missionName": "Avkuttet lem", "requirements": [{"requirement": "ambulansestasjoner", "qty": "4"}], "credits": "100"}
+{"missionId": "301", "missionName": "Avkuttet lem", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

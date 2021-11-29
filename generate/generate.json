@@ -51,7 +51,10 @@
 		"Máx. de Pacientes",
 		"påkrevd",
 		"Behov",
-		"Nødvendige"
+		"Nødvendige",
+		"Nødvendig",
+		"Maks pasienter",
+		"maks pasienter"
 	],
 	"exclude": [
 		"Station",
@@ -154,7 +157,11 @@
 		"brannstasjoner",
 		"Generert",
 		"Sannsynlighet",
-		"Vann"
+		"Vann",
+		"for skum",
+		"ambulansestasjoner",
+		"politistasjoner",
+		"for vannredningsbygning"
 	],
 	"replace": [
 		"\n",

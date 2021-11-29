@@ -1,1 +1,1 @@
-{"missionId": "289", "missionName": "Brygge i brann", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}], "credits": "5000"}
+{"missionId": "289", "missionName": "Brygge i brann", "requirements": [{"requirement": "brannbiler", "qty": "4"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "tungredningsbiler", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}], "credits": "5000"}

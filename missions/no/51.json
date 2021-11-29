@@ -1,1 +1,1 @@
-{"missionId": "51", "missionName": "Billettsniking", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "120"}
+{"missionId": "51", "missionName": "Billettsniking", "requirements": [ {"requirement": "politibiler", "qty": "1"}], "credits": "120"}

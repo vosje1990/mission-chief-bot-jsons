@@ -1,1 +1,1 @@
-{"missionId": "60", "missionName": "Brennende sportshall", "requirements": [{"requirement": "ambulansestasjoner", "qty": "2"}, {"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "2000"}
+{"missionId": "60", "missionName": "Brennende sportshall", "requirements": [{"requirement": "brannbiler", "qty": "5"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "4"}], "credits": "2000"}

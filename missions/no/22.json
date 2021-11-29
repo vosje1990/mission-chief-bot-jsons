@@ -1,1 +1,1 @@
-{"missionId": "22", "missionName": "Takbrann", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "2700"}
+{"missionId": "22", "missionName": "Takbrann", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}], "credits": "2700"}

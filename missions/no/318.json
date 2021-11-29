@@ -1,1 +1,1 @@
-{"missionId": "318", "missionName": "Liten Lyngbrann", "requirements": [{"requirement": "tankbiler", "qty": "1"}], "credits": "2000"}
+{"missionId": "318", "missionName": "Liten Lyngbrann", "requirements": [{"requirement": "tankbiler", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "2"}], "credits": "2000"}

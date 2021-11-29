@@ -1,1 +1,1 @@
-{"missionId": "331", "missionName": "Stor Skogbrann Opprydding", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "4500"}
+{"missionId": "331", "missionName": "Stor Skogbrann Opprydding", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "skogbrann kjøretøy", "qty": "7"}], "credits": "4500"}

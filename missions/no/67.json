@@ -1,1 +1,1 @@
-{"missionId": "67", "missionName": "Slåsskamp", "requirements": [{"requirement": "politistasjoner", "qty": "3"}, {"requirement": "politibiler", "qty": "3"}], "credits": "700"}
+{"missionId": "67", "missionName": "Slåsskamp", "requirements": [{"requirement": "politibiler", "qty": "3"}, {"requirement": "maks pasienter", "qty": "3"}], "credits": "700"}

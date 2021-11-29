@@ -1,1 +1,1 @@
-{"missionId": "320", "missionName": "Stor Lyngbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "4"}], "credits": "6500"}
+{"missionId": "320", "missionName": "Stor Lyngbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "4"}, {"requirement": "skogbrann kjøretøy", "qty": "6"}], "credits": "6500"}

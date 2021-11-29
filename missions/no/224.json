@@ -1,1 +1,1 @@
-{"missionId": "224", "missionName": "Dyreangrep", "requirements": [{"requirement": "politistasjoner", "qty": "1"}, {"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "1"}], "credits": "300"}
+{"missionId": "224", "missionName": "Dyreangrep", "requirements": [ {"requirement": "politibiler", "qty": "1"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "300"}

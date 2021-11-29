@@ -1,1 +1,1 @@
-{"missionId": "95", "missionName": "Vold mot offentlig tjenesteperson", "requirements": [{"requirement": "politistasjoner", "qty": "4"}, {"requirement": "ambulansestasjoner", "qty": "1"}, {"requirement": "politibiler", "qty": "2"}], "credits": "750"}
+{"missionId": "95", "missionName": "Vold mot offentlig tjenesteperson", "requirements": [{"requirement": "politibiler", "qty": "2"}, {"requirement": "maks pasienter", "qty": "1"}], "credits": "750"}

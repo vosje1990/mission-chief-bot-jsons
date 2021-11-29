@@ -1,1 +1,1 @@
-{"missionId": "305", "missionName": "Kvelningsfare", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "305", "missionName": "Kvelningsfare", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}

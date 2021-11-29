@@ -1,1 +1,1 @@
-{"missionId": "158", "missionName": "Hotellbrann (middels)", "requirements": [{"requirement": "ambulansestasjoner", "qty": "8"}, {"requirement": "brannbiler", "qty": "6"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "5000"}
+{"missionId": "158", "missionName": "Hotellbrann (middels)", "requirements": [{"requirement": "brannbiler", "qty": "6"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "stigebil", "qty": "1"}, {"requirement": "maks pasienter", "qty": "10"}], "credits": "5000"}

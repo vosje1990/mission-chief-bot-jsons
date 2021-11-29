@@ -1,1 +1,1 @@
-{"missionId": "361", "missionName": "Inbrudd på kontor", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "2"}], "credits": "1500"}
+{"missionId": "361", "missionName": "Inbrudd på kontor", "requirements": [ {"requirement": "politibiler", "qty": "2"}], "credits": "1500"}

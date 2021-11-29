@@ -1,1 +1,1 @@
-{"missionId": "323", "missionName": "Middels Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "2"}], "credits": "5500"}
+{"missionId": "323", "missionName": "Middels Skogbrann", "requirements": [{"requirement": "innsatsledere fra brann", "qty": "2"}, {"requirement": "tankbiler", "qty": "2"}, {"requirement": "skogbrann kjøretøy", "qty": "5"}], "credits": "5500"}

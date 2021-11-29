@@ -1,1 +1,1 @@
-{"missionId": "362", "missionName": "Biltyveri", "requirements": [{"requirement": "politistasjoner", "qty": "2"}, {"requirement": "politibiler", "qty": "3"}], "credits": "1600"}
+{"missionId": "362", "missionName": "Biltyveri", "requirements": [ {"requirement": "politibiler", "qty": "3"}], "credits": "1600"}

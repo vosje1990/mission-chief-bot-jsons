@@ -1,1 +1,1 @@
-{"missionId": "226", "missionName": "Brann i buss", "requirements": [{"requirement": "ambulansestasjoner", "qty": "5"}, {"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}], "credits": "1500"}
+{"missionId": "226", "missionName": "Brann i buss", "requirements": [{"requirement": "brannbiler", "qty": "3"}, {"requirement": "innsatsledere fra brann", "qty": "1"}, {"requirement": "maks pasienter", "qty": "12"}], "credits": "1500"}

@@ -1,1 +1,1 @@
-{"missionId": "162", "missionName": "Allergisk reaksjon", "requirements": [{"requirement": "ambulansestasjoner", "qty": "1"}], "credits": "100"}
+{"missionId": "162", "missionName": "Allergisk reaksjon", "requirements": [{"requirement": "maks pasienter", "qty": "1"}], "credits": "100"}
